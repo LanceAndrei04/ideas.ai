@@ -4,7 +4,7 @@
   <description asmv2:iconFile="idea.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="IdeasAi" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="IdeasAi" version="1.0.0.0" publicKeyToken="8C2640AC3925684B" language="neutral" processorArchitecture="msil" />
     <commandLine file="IdeasAi.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -79,14 +79,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IdeasAi.exe" size="2253280">
-      <assemblyIdentity name="IdeasAi" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IdeasAi.exe" size="2246144">
+      <assemblyIdentity name="IdeasAi" version="1.0.0.0" publicKeyToken="8C2640AC3925684B" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dDtkOsHUoU8yUflGPuPDWmvzA/5k+Te+zeyIzSGlyE0=</dsig:DigestValue>
+        <dsig:DigestValue>3Yi7IHJ1B5MddsjW06m39bQMk7pwUMKr58Z5yv58/HA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -324,13 +324,13 @@
       <dsig:DigestValue>wHwP0wac9LGBvz2/nH2x86mCxP+11jqWOpkCrzSZvHk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="IdeasAi.pdb" size="347648">
+  <file name="IdeasAi.pdb" size="349696">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>oTBpmu8LxxJl1eENIOHxn+QPNSxH/eaLmLacFDaCAM0=</dsig:DigestValue>
+      <dsig:DigestValue>uWkhCiCetHikQEDYuUb/xEJZ1owD46WjRyYFhTFwCcs=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

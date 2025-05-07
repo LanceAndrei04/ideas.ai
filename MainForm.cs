@@ -3,6 +3,8 @@ using System.Drawing;
 using System.Windows.Forms;
 using ComponentFactory.Krypton.Toolkit;
 using IdeasAi.PageForms;
+using System.Net.Http;
+
 
 using IdeasAi.modals;
 using IdeasAi.db;
@@ -316,7 +318,17 @@ namespace IdeasAi
         }
         private void btn_exit_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            DialogResult result = MessageBox.Show(
+                "Are you sure you want to logout?",
+                "Confirm Logout",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Warning);
+
+            if (result == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+            // If No is clicked, do nothing
         }
         private void btn_howToUse_Click(object sender, EventArgs e)
         {
