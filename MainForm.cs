@@ -3,7 +3,6 @@ using System.Drawing;
 using System.Windows.Forms;
 using ComponentFactory.Krypton.Toolkit;
 using IdeasAi.PageForms;
-using System.Net.Http;
 
 
 using IdeasAi.modals;
@@ -705,5 +704,7 @@ namespace IdeasAi
         {
             this.WindowState = FormWindowState.Minimized;
         }
+
+    
     }
 }
