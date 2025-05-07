@@ -52,6 +52,7 @@ namespace IdeasAi
         public frm_notebook frm_notebook;
         public frm_mindmap frm_mindmap;
         public frm_SPLASH frm_Splash;
+        public frm_login frm_login;
         //
         // MODALS
         //
@@ -85,6 +86,8 @@ namespace IdeasAi
             frm_notebook =  new frm_notebook(this);
             frm_mindmap = new frm_mindmap(this);
             frm_workspace = new frm_workspace(this);
+            frm_login = new frm_login(this);
+
 
             mdl_loading = new mdl_loading(this);
             modalBG = new Form();
@@ -104,6 +107,7 @@ namespace IdeasAi
 
             tabs = new List<PageTab>();
 
+            loadForm(frm_login, pnl_menuSect);
             loadForm(frm_home, pnl_content);
             setActiveBtn((object)btn_home, pnl_pageTabs);
             setThemeMode("light");

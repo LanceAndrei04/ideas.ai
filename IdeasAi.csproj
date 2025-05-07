@@ -275,6 +275,12 @@
       <DependentUpon>mdl_saveDocs.cs</DependentUpon>
     </Compile>
     <Compile Include="modals\ModalManager.cs" />
+    <Compile Include="pages\frm_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pages\frm_login.Designer.cs">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </Compile>
     <Compile Include="pages\frm_consultation.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -347,6 +353,9 @@
     <EmbeddedResource Include="pages\frm_home.resx">
       <DependentUpon>frm_home.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="pages\frm_login.resx">
+      <DependentUpon>frm_login.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="pages\frm_mindmap.resx">
       <DependentUpon>frm_mindmap.cs</DependentUpon>
     </EmbeddedResource>
@@ -396,6 +405,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="idea.ico" />
     <None Include="Resources\minimize1.png" />
     <None Include="Resources\catSplashForm.png" />

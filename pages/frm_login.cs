@@ -12,9 +12,12 @@ namespace IdeasAi.pages
 {
     public partial class frm_login : Form
     {
-        public frm_login()
+        private MainForm mainForm;
+        public frm_login(MainForm mainForm)
         {
             InitializeComponent();
+            this.mainForm = mainForm;
+
         }
 
         private void label3_Click(object sender, EventArgs e)
@@ -27,5 +30,9 @@ namespace IdeasAi.pages
 
         }
 
+        private void btn_login_Click(object sender, EventArgs e)
+        {
+            mainForm.removeForm(this, mainForm.pnl_menuSect);
+        }
     }
 }

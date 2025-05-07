@@ -79,14 +79,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IdeasAi.exe" size="2246144">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IdeasAi.exe" size="2248704">
       <assemblyIdentity name="IdeasAi" version="1.0.0.0" publicKeyToken="8C2640AC3925684B" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3Yi7IHJ1B5MddsjW06m39bQMk7pwUMKr58Z5yv58/HA=</dsig:DigestValue>
+        <dsig:DigestValue>C9kTf/wXrx7BKVr6HKXbCi1yd9JZAKHwAhsIX9a6mA0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -306,6 +306,15 @@
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name=".gitignore" size="19">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ujrllswxYa2G/ayo7sG5SnjGQacaM3B3TWQ8n4kA6F0=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="idea.ico" size="20502">
     <hash>
       <dsig:Transforms>
@@ -324,13 +333,13 @@
       <dsig:DigestValue>wHwP0wac9LGBvz2/nH2x86mCxP+11jqWOpkCrzSZvHk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="IdeasAi.pdb" size="349696">
+  <file name="IdeasAi.pdb" size="357888">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>uWkhCiCetHikQEDYuUb/xEJZ1owD46WjRyYFhTFwCcs=</dsig:DigestValue>
+      <dsig:DigestValue>PKhcqU4u7+KuoMQ1SG0WpfbOTXKl59Jr9MYPWmQ1ZmA=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

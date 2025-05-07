@@ -139,3 +139,4 @@ C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\System.Threading.Tasks.Exten
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Release\IdeasAi.exe.manifest
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Release\IdeasAi.application
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Release\IdeasAi.csproj.CopyComplete
+C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Release\IdeasAi.pages.frm_login.resources
