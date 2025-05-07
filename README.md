@@ -9,10 +9,11 @@
 **Leveraging AI for Idea Generation** 🌟
 
 ### Team Members:
-- Caguicla, Fhil Joshua
-- Campued, Maryflor
-- Dimagculang, Sherivic
-- Gamilla, Marc Juaren
+- DIMAGCULANG, SHERIVIC MAE E.
+- EBORA, MA. MIKAELLA P.
+- ESPINA, LANCE ANDREI R.
+- LEJANO, NATHANIEL O.
+-TOLENTINO, JOHN BENEDICT A.
 
 ---
 
