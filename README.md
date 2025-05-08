@@ -24,9 +24,6 @@
 
 In educational settings, it is very common for students to face difficulties in thinking of ideas and understanding complex topics. With the growing demand for tools that support independent learning and ideation, there is a need for an intelligent, accessible, and user-friendly tool that can assist students with ease.
 
----
-
-
 Idea.AI aims to address this gap by offering an AI-powered chatbot that leverages the Gemini API to help users—particularly students—generate ideas, explore topics in depth, and enhance their learning experience through prompt-based interaction.
 
 ---
