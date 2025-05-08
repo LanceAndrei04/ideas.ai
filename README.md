@@ -44,7 +44,7 @@ _Interactive Development and Exploration Assistant_
 
 ## V. Relevance to SDG
 
-<p align="justify"> Idea.AI promotes SDG 4 — Quality Education by using AI to enhance critical thinking and creativity among students. It offers a platform for collaborative idea generation, breaking down learning barriers and fostering personalized learning experiences. By democratizing idea generation and encouraging lifelong learning, Idea.AI advances the goals of SDG 4.</p>
+<p align="justify"> Idea.AI promotes <strong>SDG 4 — Quality Education</strong> by using AI to enhance critical thinking and creativity among students. It offers a platform for collaborative idea generation, breaking down learning barriers and fostering personalized learning experiences. By democratizing idea generation and encouraging lifelong learning, Idea.AI advances the goals of SDG 4.</p>
 
 ---
 
