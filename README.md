@@ -73,20 +73,20 @@ _Interactive Development and Exploration Assistant_
 
 ## Gemini AI 
 
-<p align="justify">Gemini, developed by Google DeepMind, stands out as a groundbreaking multimodal language model capable of processing diverse information types, such as text, code, audio, images, and video. With three optimized versions tailored to different needs, Gemini offers versatility for various tasks and devices.</p>
+<p align="justify">Gemini, developed by <strong>Google DeepMind</strong>, stands out as a groundbreaking multimodal language model capable of processing diverse information types, such as text, code, audio, images, and video. With three optimized versions tailored to different needs, Gemini offers versatility for various tasks and devices.</p>
 
 ---
 
 ## IX. Features
 
 - 🔍 **QHub**
-  <p align="justify">- This is the "Ask a Question" feature that serves a two-fold purpose. First, it allows the users to consult on the AI Model and get a tailored response based on the prompt. And the other purpose is to use Google, enabling users to ask specific questions which can cover up for the limitations of the generated AI Responses.</p>
+  <p align="justify">- This is the <strong>"Ask a Question"</strong> feature that serves a two-fold purpose. First, it allows the users to consult on the AI Model and get a tailored response based on the prompt. And the other purpose is to use Google, enabling users to ask specific questions which can cover up for the limitations of the generated AI Responses.</p>
 - 📝 **Notebook**
-  <p align="justify">- The "Idea Storage" feature is like a digital notebook tailored for brainstorming and development. It lets users capture, organize, and revisit ideas alongside AI-generated insights. This central hub prevents idea loss, supports comparison with AI outputs, and promotes a productive environment for ongoing projects.</p>
+  <p align="justify">- The <strong>"Idea Storage"</strong> feature is like a digital notebook tailored for brainstorming and development. It lets users capture, organize, and revisit ideas alongside AI-generated insights. This central hub prevents idea loss, supports comparison with AI outputs, and promotes a productive environment for ongoing projects.</p>
 - 🛠️ **Workspace**
-  <p align="justify">- The program incorporates a crucial "Workspace" feature designed to be a digital playground for expanding ideas. This serves as a central hub for users to brainstorm, refine, and develop their initial concepts. Workspace allows users to write down their ideas in various formats such as text and mind maps. They can freely add notes, organize their thoughts, and connect related concepts.</p>
+  <p align="justify">- The program incorporates a crucial <strong>"Workspace"</strong> feature designed to be a digital playground for expanding ideas. This serves as a central hub for users to brainstorm, refine, and develop their initial concepts. Workspace allows users to write down their ideas in various formats such as text and mind maps. They can freely add notes, organize their thoughts, and connect related concepts.</p>
 - 🧠 **MindMap**
-  <p align="justify">- The program offers an <strong>"Automatic Mind Map"</strong>strong> feature designed to streamline brainstorming and visualize ideas by transforming raw concepts into a clear, structured format. It supports studies on information overload by assisting in information organization. To use it, users input notes or documents into the system, and AI algorithms generate a tailored mind map, aiding in understanding, retention, and decision-making. Users can then manage study materials, streamline learning, and achieve academic success.</p>
+  <p align="justify">- The program offers an <strong>"Automatic Mind Map"</strong> feature designed to streamline brainstorming and visualize ideas by transforming raw concepts into a clear, structured format. It supports studies on information overload by assisting in information organization. To use it, users input notes or documents into the system, and AI algorithms generate a tailored mind map, aiding in understanding, retention, and decision-making. Users can then manage study materials, streamline learning, and achieve academic success.</p>
 
 ---
 
