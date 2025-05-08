@@ -20,7 +20,7 @@
 ### With Special Thanks to the Original Developers:
 - Caguicla, Fhil Joshua
 - Campued, Maryflor
-- Dimagculang, Sherivic
+- Dimagculang, Sherivic Mae
 - Gamilla, Marc Juaren
 
 ---
