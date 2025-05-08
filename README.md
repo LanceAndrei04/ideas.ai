@@ -12,7 +12,7 @@ _Interactive Development and Exploration Assistant_
 
 ## II. Team Members:
 - Dimagculang, Sherivic Mae 
-- Ebore, Ma. Mikaella 
+- Ebora, Ma. Mikaella 
 - Espina, Lance Andrei 
 - Lejano, Nathaniel 
 - Tolentino, John Benedict 
@@ -50,16 +50,16 @@ _Interactive Development and Exploration Assistant_
 
 ## VI. Significance of the Developed System 
 
-### The Students 
+### 🎓 The Students 
 <p align="justify">The developed system is a lightweight system that offers efficient processes which can assist in enhancing critical and creative thinking skills of the students. It is equipped with the tools and skills necessary to thrive in today’s fast-paced environment.</p>
 
-### The Educators 
+### 👩‍🏫 The Educators 
 <p align="justify">This will enable them to comprehend students' academic difficulties more clearly and support in resolving them, particularly when they are given tasks. It will help to improve and refine teaching strategies that are appropriate for the media-filled world of today.</p>
 
-### Future Researchers & Developers 
+### 🧪 Future Researchers & Developers 
 <p align="justify">This research can be a useful reference for future researchers, especially, those who are in the field of Computer Science. It will serve as a guide for conducting research related to the developed system, serving as a foundation for new studies or enhancements to existing ones.</p>
 
-### University 
+### 🏛️ University 
 <p align="justify">The developed system will help the university in several ways, including improved teaching strategies, more engaged and productive students, and the possibility of technological innovation.</p>
 
 ---
