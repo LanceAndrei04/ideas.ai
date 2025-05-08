@@ -93,14 +93,6 @@ The developed system shows the transformational potential of an AI-driven system
 The developed system improves system speed, user experience, and utilizes AI technology, opening the door for dynamic and engaging learning environments.
 Thank You! 🙏
 
-## References
+---
 
-Disorganization (Kinnane, 2024)  
-
-Students struggle with assignments, particularly essays. Common challenges include comprehending needs, doing efficient research, and organizing ideas (Mamidted, 2023).
-
-Limited knowledge (Asian News International, 2019)  
-
-Information overload impeding the ability of students. (Khalid et al., 2016)
-
-Lack of idea generation techniques (Heong et al., 2013).
+## Acknowledgement
