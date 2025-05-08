@@ -98,9 +98,11 @@ Thank You! 🙏
 ## References
 
 Disorganization (Kinnane, 2024)  
+
 Students struggle with assignments, particularly essays. Common challenges include comprehending needs, doing efficient research, and organizing ideas (Mamidted, 2023).
 
 Limited knowledge (Asian News International, 2019)  
+
 Information overload impeding the ability of students. (Khalid et al., 2016)
 
 Lack of idea generation techniques (Heong et al., 2013).
