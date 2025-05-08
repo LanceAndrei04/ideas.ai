@@ -11,11 +11,17 @@
 ---
 
 ### Team Members:
-- DIMAGCULANG, SHERIVIC MAE E.
-- EBORA, MA. MIKAELLA P.
-- ESPINA, LANCE ANDREI R.
-- LEJANO, NATHANIEL O.
-- TOLENTINO, JOHN BENEDICT A.
+- Dimagculang, Sherivic Mae 
+- Ebore, Ma. Mikaella 
+- Espina, Lance Andrei 
+- Lejano, Nathaniel 
+- Tolentino, John Benedict 
+
+### With Special Thanks to the Original Developers:
+- Caguicla, Fhil Joshua
+- Campued, Maryflor
+- Dimagculang, Sherivic
+- Gamilla, Marc Juaren
 
 ---
 
