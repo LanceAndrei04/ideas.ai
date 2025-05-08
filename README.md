@@ -2,11 +2,14 @@
 
 ## Idea.AI: Your Creative Playground
 
+## Overview 📚
+
 💡 **Idea.AI is an interactive platform designed to assist individuals, particularly students, in generating fresh ideas through artificial intelligence.** 🤖 It facilitates a collaborative environment where users can leverage AI to explore and develop innovative concepts. 🌐
 [Download the App here!](https://drive.google.com/drive/u/1/folders/1JvOqooKC-B-Qq9rbWJcoc64LmKh7Swrz)
 
-
 **Leveraging AI for Idea Generation** 🌟
+
+---
 
 ### Team Members:
 - DIMAGCULANG, SHERIVIC MAE E.
@@ -23,7 +26,6 @@ In educational settings, it is very common for students to face difficulties in 
 
 ---
 
-## Overview 📚
 
 Idea.AI aims to address this gap by offering an AI-powered chatbot that leverages the Gemini API to help users—particularly students—generate ideas, explore topics in depth, and enhance their learning experience through prompt-based interaction.
 
