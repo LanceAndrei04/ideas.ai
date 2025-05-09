@@ -29,7 +29,7 @@ _Interactive Development and Exploration Assistant_
 
 <p align="justify">In educational settings, it is very common for students to face difficulties in thinking of ideas and understanding complex topics. With the growing demand for tools that support independent learning and ideation, there is a need for an intelligent, accessible, and user-friendly tool that can assist students with ease.</p>
 
-<p align="justify">Idea.AI aims to address this gap by offering an AI-powered chatbot that leverages the Gemini API to help users—particularly students—generate ideas, explore topics in depth, and enhance their learning experience through prompt-based interaction.</p>
+<p align="justify">Idea.AI aims to address this gap by offering an AI-powered chatbot that leverages the Gemini API to help users, particularly students, generate ideas, explore topics, and enhance their learning experience through AI interaction.</p>
 
 ---
 
