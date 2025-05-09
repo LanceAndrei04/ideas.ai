@@ -10,14 +10,14 @@ _Interactive Development and Exploration Assistant_
 
 ---
 
-## II. Team Members:
+## II. Team Members :
 - Dimagculang, Sherivic Mae 
 - Ebora, Ma. Mikaella 
 - Espina, Lance Andrei 
 - Lejano, Nathaniel 
 - Tolentino, John Benedict 
 
-## With Special Thanks to the Original Developers:
+## With Special Thanks to the Original Developers :
 - Caguicla, Fhil Joshua
 - Campued, Maryflor
 - Dimagculang, Sherivic Mae
