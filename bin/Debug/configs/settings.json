@@ -1,8 +1,8 @@
 {
-  "API_KEY": "__GeminiAPI__",
+  "API_KEY": "__GEMINI_API_KEY__",
   "Python_Module": "__pythonModule__",
   "Database_Path": {
-    "DEFAULT": "..\\..\\db\\default.db",
+    "DEFAULT": "db\\default.db"
   }
 
 }

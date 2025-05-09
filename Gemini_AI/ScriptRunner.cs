@@ -49,8 +49,8 @@ namespace IdeasAi.Gemini_AI
 
         public static async Task<string> GetResponseAsync(string prompt)
         {
-            string apiKey = "AIzaSyCkAHZqCjRPDDbeARiLyxwFww9se4ei6-Y";
-            string apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro-latest:generateContent?key=" + apiKey;
+            string apiKey = "AIzaSyDXUnKJQ_xbwAo0GouUfb9JFZaogh9pTZY";
+            string apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" + apiKey;
 
             // Define your JSON payload
             string jsonPayload = @"

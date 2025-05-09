@@ -121,7 +121,6 @@ C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\System.Runtime.CompilerServi
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\System.Threading.Tasks.Extensions.dll
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\EntityFramework.xml
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\EntityFramework.SqlServer.xml
-C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\Markdig.xml
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\MarkdownSharp.xml
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
@@ -130,13 +129,12 @@ C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\Microsoft.Extensions.Logging
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\Microsoft.Extensions.Options.xml
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\Microsoft.Extensions.Primitives.xml
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\Newtonsoft.Json.xml
-C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\System.Buffers.xml
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\System.Data.SQLite.xml
-C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\System.Memory.xml
-C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\System.Numerics.Vectors.xml
-C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Release\System.Threading.Tasks.Extensions.xml
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Release\IdeasAi.exe.manifest
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Release\IdeasAi.application
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Release\IdeasAi.csproj.CopyComplete
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Release\IdeasAi.pages.frm_login.resources
+C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Release\IdeasAi.pages.frm_register.resources
+C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Release\IdeasAi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Release\IdeasAi.exe.config

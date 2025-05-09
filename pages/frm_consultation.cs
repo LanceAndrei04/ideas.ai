@@ -62,14 +62,22 @@ Click 'Workspace' button to save the generated idea into the program itself,
         }
         private string ConvertMarkdownToHtml(string markdownText)
         {
-            var pipeline = new MarkdownPipelineBuilder().UseAdvancedExtensions().Build();
-            return Markdig.Markdown.ToHtml(markdownText, pipeline);
+            try
+            {
+                var pipeline = new MarkdownPipelineBuilder().UseAdvancedExtensions().Build();
+                return Markdig.Markdown.ToHtml(markdownText, pipeline);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error converting markdown to HTML: {ex.Message}");
+                return "<p>Error processing markdown content.</p>";
+            }
         }
 
         public void displayResult(string markdownText)
         {
-            string htmlText = ConvertMarkdownToHtml(markdownText);
-
+            //string htmlText = ConvertMarkdownToHtml(markdownText);
+            //Console.Write(htmlText);
             string htmlContent = @"
                     <!DOCTYPE html>
                     <html>
@@ -93,7 +101,7 @@ Click 'Workspace' button to save the generated idea into the program itself,
                     </style>
                     </head>
                     <body>
-                    " + htmlText + @"
+                    " + markdownText + @"
                     </body>
                     </html>
                     ";
