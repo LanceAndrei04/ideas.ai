@@ -33,8 +33,15 @@ namespace IdeasAi.pages
         private void btn_login_Click(object sender, EventArgs e)
         {
             mainForm.removeForm(this, mainForm.pnl_menuSect);
-           
+            mainForm.loadForm(mainForm.frm_register, mainForm.pnl_menuSect);
 
+
+        }
+
+        private void link_register_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            mainForm.removeForm(this, mainForm.pnl_menuSect);
+            mainForm.loadForm(mainForm.frm_register, mainForm.pnl_menuSect);
         }
     }
 }

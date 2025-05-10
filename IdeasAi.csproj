@@ -327,6 +327,12 @@
     <Compile Include="pages\frm_notebook.Designer.cs">
       <DependentUpon>frm_notebook.cs</DependentUpon>
     </Compile>
+    <Compile Include="pages\frm_register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pages\frm_register.Designer.cs">
+      <DependentUpon>frm_register.cs</DependentUpon>
+    </Compile>
     <Compile Include="pages\frm_SPLASH.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -340,12 +346,6 @@
       <DependentUpon>frm_workspace.cs</DependentUpon>
     </Compile>
     <Compile Include="pages\PageTab.cs" />
-    <Compile Include="pages\frm_register.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="pages\frm_register.Designer.cs">
-      <DependentUpon>frm_register.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="MainForm.resx">
@@ -393,14 +393,14 @@
     <EmbeddedResource Include="pages\frm_notebook.resx">
       <DependentUpon>frm_notebook.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="pages\frm_register.resx">
+      <DependentUpon>frm_register.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="pages\frm_SPLASH.resx">
       <DependentUpon>frm_SPLASH.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="pages\frm_workspace.resx">
       <DependentUpon>frm_workspace.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="pages\frm_register.resx">
-      <DependentUpon>frm_register.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

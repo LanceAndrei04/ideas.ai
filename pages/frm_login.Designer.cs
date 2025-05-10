@@ -121,6 +121,7 @@
             this.link_register.TabIndex = 10;
             this.link_register.TabStop = true;
             this.link_register.Text = "Register here";
+            this.link_register.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.link_register_LinkClicked);
             // 
             // btn_login
             // 

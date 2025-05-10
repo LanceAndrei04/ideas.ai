@@ -67,6 +67,7 @@ namespace IdeasAi
         public ModalManager mdl_setter;
 
         public Button btn_active;
+        internal Form frm_register;
 
         public MainForm(frm_SPLASH FRM_SPLASH)
         {
@@ -87,6 +88,7 @@ namespace IdeasAi
             frm_mindmap = new frm_mindmap(this);
             frm_workspace = new frm_workspace(this);
             frm_login = new frm_login(this);
+            frm_register = new frm_register(this);
 
 
             mdl_loading = new mdl_loading(this);

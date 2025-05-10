@@ -12,9 +12,11 @@ namespace IdeasAi.pages
 {
     public partial class frm_register : Form
     {
+        private MainForm mainForm;
         public frm_register(MainForm mainform)
         {
             InitializeComponent();
+            this.mainForm = mainForm;
         }
 
         private void btn_register_Click(object sender, EventArgs e)

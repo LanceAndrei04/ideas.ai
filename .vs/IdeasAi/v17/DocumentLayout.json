@@ -3,79 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|c:\\users\\lance\\desktop\\ideasai\\ideas.ai\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|c:\\users\\lance\\desktop\\ideasai\\ideas.ai\\pages\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:pages\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|c:\\users\\lance\\desktop\\ideasai\\ideas.ai\\pages\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:pages\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|c:\\users\\lance\\desktop\\ideasai\\ideas.ai\\pages\\frm_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:pages\\frm_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|c:\\users\\lance\\desktop\\ideasai\\ideas.ai\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|c:\\users\\lance\\desktop\\ideasai\\ideas.ai\\pages\\frm_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:pages\\frm_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|IdeasAi||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|c:\\users\\lance\\desktop\\ideasai\\ideas.ai\\pages\\frm_consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:pages\\frm_consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\pages\\frm_consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:pages\\frm_consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\gemini_ai\\ai_response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:gemini_ai\\ai_response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\ai_consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:ai_responses\\ai_consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\ai_responsebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:ai_responses\\ai_responsebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\gemini_ai\\scriptrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:gemini_ai\\scriptrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\configs\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:configs\\settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\ai_summarizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:ai_responses\\ai_summarizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\ai_scamper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:ai_responses\\ai_scamper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\ai_quicksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:ai_responses\\ai_quicksearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\ai_mindmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:ai_responses\\ai_mindmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\ai_grammarchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:ai_responses\\ai_grammarchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\ai_elaborator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:ai_responses\\ai_elaborator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\ai_categorizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:ai_responses\\ai_categorizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\modals\\modalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|solutionrelative:modals\\modalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13CCC9AD-75E1-42EC-9BCA-E11EEB737F74}|IdeasAi.csproj|c:\\users\\lance\\desktop\\ideasai\\ideas.ai\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
@@ -97,6 +49,81 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\MainForm.cs*",
+              "RelativeToolTip": "MainForm.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwFoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:12:18.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\MainForm.cs [Design]*",
+              "RelativeToolTip": "MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:11:50.872Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_register.cs",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\pages\\frm_register.cs",
+              "RelativeDocumentMoniker": "pages\\frm_register.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\pages\\frm_register.cs",
+              "RelativeToolTip": "pages\\frm_register.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:09:09.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_login.cs",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\pages\\frm_login.cs",
+              "RelativeDocumentMoniker": "pages\\frm_login.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\pages\\frm_login.cs*",
+              "RelativeToolTip": "pages\\frm_login.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:08:53.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\pages\\frm_login.cs",
+              "RelativeDocumentMoniker": "pages\\frm_login.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\pages\\frm_login.cs [Design]*",
+              "RelativeToolTip": "pages\\frm_login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:55:44.485Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\pages\\frm_register.cs",
+              "RelativeDocumentMoniker": "pages\\frm_register.cs",
+              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\pages\\frm_register.cs [Design]",
+              "RelativeToolTip": "pages\\frm_register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:54:53.467Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IdeasAi",
               "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\IdeasAi.csproj",
               "RelativeDocumentMoniker": "IdeasAi.csproj",
@@ -105,230 +132,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-05-10T14:50:16.192Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frm_consultation.cs",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\pages\\frm_consultation.cs",
-              "RelativeDocumentMoniker": "pages\\frm_consultation.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\pages\\frm_consultation.cs",
-              "RelativeToolTip": "pages\\frm_consultation.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAuwEsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T14:02:29.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-09T15:39:16.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frm_consultation.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\pages\\frm_consultation.cs",
-              "RelativeDocumentMoniker": "pages\\frm_consultation.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\pages\\frm_consultation.cs [Design]",
-              "RelativeToolTip": "pages\\frm_consultation.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T14:02:26.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-09T13:29:16.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\packages.config",
-              "RelativeDocumentMoniker": "packages.config",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\packages.config",
-              "RelativeToolTip": "packages.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-09T13:28:56.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "settings.json",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\configs\\settings.json",
-              "RelativeDocumentMoniker": "configs\\settings.json",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\configs\\settings.json",
-              "RelativeToolTip": "configs\\settings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T13:28:51.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AI_ResponseBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_ResponseBuilder.cs",
-              "RelativeDocumentMoniker": "ai_responses\\AI_ResponseBuilder.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_ResponseBuilder.cs",
-              "RelativeToolTip": "ai_responses\\AI_ResponseBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T03:20:21.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ScriptRunner.cs",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\Gemini_AI\\ScriptRunner.cs",
-              "RelativeDocumentMoniker": "Gemini_AI\\ScriptRunner.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\Gemini_AI\\ScriptRunner.cs",
-              "RelativeToolTip": "Gemini_AI\\ScriptRunner.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAYwDYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T02:11:17.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AI_Response.cs",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\Gemini_AI\\AI_Response.cs",
-              "RelativeDocumentMoniker": "Gemini_AI\\AI_Response.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\Gemini_AI\\AI_Response.cs",
-              "RelativeToolTip": "Gemini_AI\\AI_Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T02:11:10.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AI_Consultant.cs",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_Consultant.cs",
-              "RelativeDocumentMoniker": "ai_responses\\AI_Consultant.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_Consultant.cs",
-              "RelativeToolTip": "ai_responses\\AI_Consultant.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T02:46:22.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AI_Summarizer.cs",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_Summarizer.cs",
-              "RelativeDocumentMoniker": "ai_responses\\AI_Summarizer.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_Summarizer.cs",
-              "RelativeToolTip": "ai_responses\\AI_Summarizer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T03:20:28.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AI_Scamper.cs",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_Scamper.cs",
-              "RelativeDocumentMoniker": "ai_responses\\AI_Scamper.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_Scamper.cs",
-              "RelativeToolTip": "ai_responses\\AI_Scamper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T03:20:24.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AI_QuickSearch.cs",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_QuickSearch.cs",
-              "RelativeDocumentMoniker": "ai_responses\\AI_QuickSearch.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_QuickSearch.cs",
-              "RelativeToolTip": "ai_responses\\AI_QuickSearch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T03:20:18.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AI_Mindmap.cs",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_Mindmap.cs",
-              "RelativeDocumentMoniker": "ai_responses\\AI_Mindmap.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_Mindmap.cs",
-              "RelativeToolTip": "ai_responses\\AI_Mindmap.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T03:20:13.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AI_GrammarChecker.cs",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_GrammarChecker.cs",
-              "RelativeDocumentMoniker": "ai_responses\\AI_GrammarChecker.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_GrammarChecker.cs",
-              "RelativeToolTip": "ai_responses\\AI_GrammarChecker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T03:20:05.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AI_Elaborator.cs",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_Elaborator.cs",
-              "RelativeDocumentMoniker": "ai_responses\\AI_Elaborator.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_Elaborator.cs",
-              "RelativeToolTip": "ai_responses\\AI_Elaborator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAawBEAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T03:19:39.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ModalManager.cs",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\modals\\ModalManager.cs",
-              "RelativeDocumentMoniker": "modals\\ModalManager.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\modals\\ModalManager.cs",
-              "RelativeToolTip": "modals\\ModalManager.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T02:47:24.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AI_Categorizer.cs",
-              "DocumentMoniker": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_Categorizer.cs",
-              "RelativeDocumentMoniker": "ai_responses\\AI_Categorizer.cs",
-              "ToolTip": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\ai_responses\\AI_Categorizer.cs",
-              "RelativeToolTip": "ai_responses\\AI_Categorizer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T02:12:40.682Z"
             }
           ]
         }
