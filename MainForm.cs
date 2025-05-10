@@ -324,17 +324,15 @@ namespace IdeasAi
         }
         private void btn_exit_Click(object sender, EventArgs e)
         {
-            DialogResult result = MessageBox.Show(
-            "Are you sure you want to logout?",
-            "Confirm Logout",
-            MessageBoxButtons.YesNo,
-            MessageBoxIcon.Warning);
+            DialogResult result = MessageDialog.Show(
+             "Are you sure you want to logout?",
+             "Confirm Logout",
+             MessageDialog.MessageType.Question 
+     );
 
-            if (result == DialogResult.Yes)
+            if (result == DialogResult.OK)
             {
-                
                 resetToHome();
-
 
                 if (frm_login == null)
                 {

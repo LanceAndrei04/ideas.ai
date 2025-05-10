@@ -408,3 +408,4 @@ C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Debug\IdeasAi.csproj.Up2Date
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Debug\IdeasAi.exe
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Debug\IdeasAi.pdb
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Debug\PlantUml.Net.dll
+C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Debug\IdeasAi.pages.MessageDialog.resources

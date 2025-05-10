@@ -345,6 +345,12 @@
     <Compile Include="pages\frm_workspace.Designer.cs">
       <DependentUpon>frm_workspace.cs</DependentUpon>
     </Compile>
+    <Compile Include="pages\MessageDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pages\MessageDialog.Designer.cs">
+      <DependentUpon>MessageDialog.cs</DependentUpon>
+    </Compile>
     <Compile Include="pages\PageTab.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -401,6 +407,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="pages\frm_workspace.resx">
       <DependentUpon>frm_workspace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pages\MessageDialog.resx">
+      <DependentUpon>MessageDialog.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
