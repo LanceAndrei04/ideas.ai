@@ -56,7 +56,7 @@
             this.label1.Font = new System.Drawing.Font("Cascadia Code", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(52, 167);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(120, 45);
+            this.label1.Size = new System.Drawing.Size(114, 44);
             this.label1.TabIndex = 4;
             this.label1.Text = "LOGIN";
             // 
@@ -104,20 +104,20 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Cascadia Code", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Cascadia Code", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(-1, 363);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(232, 17);
+            this.label4.Size = new System.Drawing.Size(261, 20);
             this.label4.TabIndex = 9;
             this.label4.Text = "Still don\'t have an account?";
             // 
             // link_register
             // 
             this.link_register.AutoSize = true;
-            this.link_register.Font = new System.Drawing.Font("Cascadia Code", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.link_register.Font = new System.Drawing.Font("Cascadia Code", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.link_register.Location = new System.Drawing.Point(33, 389);
             this.link_register.Name = "link_register";
-            this.link_register.Size = new System.Drawing.Size(112, 17);
+            this.link_register.Size = new System.Drawing.Size(126, 20);
             this.link_register.TabIndex = 10;
             this.link_register.TabStop = true;
             this.link_register.Text = "Register here";

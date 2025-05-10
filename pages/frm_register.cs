@@ -10,13 +10,16 @@ using System.Windows.Forms;
 
 namespace IdeasAi.pages
 {
-    public partial class frm_register : UserControl
+    public partial class frm_register : Form
     {
-        public frm_register()
+        public frm_register(MainForm mainform)
         {
             InitializeComponent();
         }
 
-    
+        private void btn_register_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
