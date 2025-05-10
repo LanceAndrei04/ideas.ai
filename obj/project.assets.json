@@ -18,7 +18,19 @@
           }
         }
       },
-      "System.Buffers/4.6.0": {
+      "PlantUml.Net/1.4.80": {
+        "type": "package",
+        "dependencies": {
+          "System.Net.Http": "4.3.4"
+        },
+        "compile": {
+          "lib/net461/PlantUml.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net461/PlantUml.Net.dll": {}
+        }
+      },
+      "System.Buffers/4.6.1": {
         "type": "package",
         "compile": {
           "lib/net462/System.Buffers.dll": {
@@ -148,7 +160,7 @@
           "buildTransitive/net462/_._": {}
         }
       },
-      "System.Security.Cryptography.Algorithms/4.3.0": {
+      "System.Security.Cryptography.Algorithms/4.3.1": {
         "type": "package",
         "dependencies": {
           "System.IO": "4.3.0",
@@ -262,7 +274,19 @@
           }
         }
       },
-      "System.Buffers/4.6.0": {
+      "PlantUml.Net/1.4.80": {
+        "type": "package",
+        "dependencies": {
+          "System.Net.Http": "4.3.4"
+        },
+        "compile": {
+          "lib/net461/PlantUml.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net461/PlantUml.Net.dll": {}
+        }
+      },
+      "System.Buffers/4.6.1": {
         "type": "package",
         "compile": {
           "lib/net462/System.Buffers.dll": {
@@ -382,7 +406,7 @@
           "buildTransitive/net462/_._": {}
         }
       },
-      "System.Security.Cryptography.Algorithms/4.3.0": {
+      "System.Security.Cryptography.Algorithms/4.3.1": {
         "type": "package",
         "dependencies": {
           "System.IO": "4.3.0",
@@ -462,7 +486,19 @@
           }
         }
       },
-      "System.Buffers/4.6.0": {
+      "PlantUml.Net/1.4.80": {
+        "type": "package",
+        "dependencies": {
+          "System.Net.Http": "4.3.4"
+        },
+        "compile": {
+          "lib/net461/PlantUml.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net461/PlantUml.Net.dll": {}
+        }
+      },
+      "System.Buffers/4.6.1": {
         "type": "package",
         "compile": {
           "lib/net462/System.Buffers.dll": {
@@ -582,7 +618,7 @@
           "buildTransitive/net462/_._": {}
         }
       },
-      "System.Security.Cryptography.Algorithms/4.3.0": {
+      "System.Security.Cryptography.Algorithms/4.3.1": {
         "type": "package",
         "dependencies": {
           "System.IO": "4.3.0",
@@ -662,7 +698,19 @@
           }
         }
       },
-      "System.Buffers/4.6.0": {
+      "PlantUml.Net/1.4.80": {
+        "type": "package",
+        "dependencies": {
+          "System.Net.Http": "4.3.4"
+        },
+        "compile": {
+          "lib/net461/PlantUml.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net461/PlantUml.Net.dll": {}
+        }
+      },
+      "System.Buffers/4.6.1": {
         "type": "package",
         "compile": {
           "lib/net462/System.Buffers.dll": {
@@ -782,7 +830,7 @@
           "buildTransitive/net462/_._": {}
         }
       },
-      "System.Security.Cryptography.Algorithms/4.3.0": {
+      "System.Security.Cryptography.Algorithms/4.3.1": {
         "type": "package",
         "dependencies": {
           "System.IO": "4.3.0",
@@ -862,7 +910,19 @@
           }
         }
       },
-      "System.Buffers/4.6.0": {
+      "PlantUml.Net/1.4.80": {
+        "type": "package",
+        "dependencies": {
+          "System.Net.Http": "4.3.4"
+        },
+        "compile": {
+          "lib/net461/PlantUml.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net461/PlantUml.Net.dll": {}
+        }
+      },
+      "System.Buffers/4.6.1": {
         "type": "package",
         "compile": {
           "lib/net462/System.Buffers.dll": {
@@ -982,7 +1042,7 @@
           "buildTransitive/net462/_._": {}
         }
       },
-      "System.Security.Cryptography.Algorithms/4.3.0": {
+      "System.Security.Cryptography.Algorithms/4.3.1": {
         "type": "package",
         "dependencies": {
           "System.IO": "4.3.0",
@@ -1070,10 +1130,24 @@
         "readme.md"
       ]
     },
-    "System.Buffers/4.6.0": {
-      "sha512": "lN6tZi7Q46zFzAbRYXTIvfXcyvQQgxnY7Xm6C6xQ9784dEL1amjM6S6Iw4ZpsvesAKnRVsM4scrDQaDqSClkjA==",
+    "PlantUml.Net/1.4.80": {
+      "sha512": "qBJ92YA8+0TXO8frlpVb/rz6Ya9okWYx263i6x2ilbq6tJrHJaAg9EoLZaPUnk51VJrMBL4CEmGLNATPYynjnw==",
       "type": "package",
-      "path": "system.buffers/4.6.0",
+      "path": "plantuml.net/1.4.80",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/PlantUml.Net.dll",
+        "lib/netcoreapp2.0/PlantUml.Net.dll",
+        "lib/netstandard2.0/PlantUml.Net.dll",
+        "plantuml.net.1.4.80.nupkg.sha512",
+        "plantuml.net.nuspec"
+      ]
+    },
+    "System.Buffers/4.6.1": {
+      "sha512": "N8GXpmiLMtljq7gwvyS+1QvKT/W2J8sNAvx+HVg4NGmsG/H+2k/y9QI23auLJRterrzCiDH+IWAw4V/GPwsMlw==",
+      "type": "package",
+      "path": "system.buffers/4.6.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1083,10 +1157,11 @@
         "buildTransitive/net462/_._",
         "lib/net462/System.Buffers.dll",
         "lib/net462/System.Buffers.xml",
-        "lib/netcoreapp2.1/_._",
+        "lib/netcoreapp2.0/_._",
         "lib/netstandard2.0/System.Buffers.dll",
         "lib/netstandard2.0/System.Buffers.xml",
-        "system.buffers.4.6.0.nupkg.sha512",
+        "lib/netstandard2.1/_._",
+        "system.buffers.4.6.1.nupkg.sha512",
         "system.buffers.nuspec"
       ]
     },
@@ -1367,10 +1442,10 @@
         "system.runtime.compilerservices.unsafe.nuspec"
       ]
     },
-    "System.Security.Cryptography.Algorithms/4.3.0": {
-      "sha512": "W1kd2Y8mYSCgc3ULTAZ0hOP2dSdG5YauTb1089T0/kRcN2MpSAW1izOFROrJgxSlMn3ArsgHXagigyi+ibhevg==",
+    "System.Security.Cryptography.Algorithms/4.3.1": {
+      "sha512": "DVUblnRfnarrI5olEC2B/OCsJQd0anjVaObQMndHSc43efbc88/RMOlDyg/EyY0ix5ecyZMXS8zMksb5ukebZA==",
       "type": "package",
-      "path": "system.security.cryptography.algorithms/4.3.0",
+      "path": "system.security.cryptography.algorithms/4.3.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1404,7 +1479,7 @@
         "runtimes/win/lib/net463/System.Security.Cryptography.Algorithms.dll",
         "runtimes/win/lib/netcore50/System.Security.Cryptography.Algorithms.dll",
         "runtimes/win/lib/netstandard1.6/System.Security.Cryptography.Algorithms.dll",
-        "system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
+        "system.security.cryptography.algorithms.4.3.1.nupkg.sha512",
         "system.security.cryptography.algorithms.nuspec"
       ]
     },
@@ -1538,7 +1613,14 @@
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.7.2": [
       "Markdig >= 0.41.1",
-      "System.Net.Http >= 4.3.4"
+      "PlantUml.Net >= 1.4.80",
+      "System.Buffers >= 4.6.1",
+      "System.IO >= 4.3.0",
+      "System.Net.Http >= 4.3.4",
+      "System.Runtime >= 4.3.0",
+      "System.Security.Cryptography.Algorithms >= 4.3.1",
+      "System.Security.Cryptography.Encoding >= 4.3.0",
+      "System.Security.Cryptography.Primitives >= 4.3.0"
     ]
   },
   "packageFolders": {
@@ -1589,9 +1671,37 @@
             "target": "Package",
             "version": "[0.41.1, )"
           },
+          "PlantUml.Net": {
+            "target": "Package",
+            "version": "[1.4.80, )"
+          },
+          "System.Buffers": {
+            "target": "Package",
+            "version": "[4.6.1, )"
+          },
+          "System.IO": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          },
           "System.Net.Http": {
             "target": "Package",
             "version": "[4.3.4, )"
+          },
+          "System.Runtime": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          },
+          "System.Security.Cryptography.Algorithms": {
+            "target": "Package",
+            "version": "[4.3.1, )"
+          },
+          "System.Security.Cryptography.Encoding": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          },
+          "System.Security.Cryptography.Primitives": {
+            "target": "Package",
+            "version": "[4.3.0, )"
           }
         }
       }

@@ -76,8 +76,8 @@ Click 'Workspace' button to save the generated idea into the program itself,
 
         public void displayResult(string markdownText)
         {
-            //string htmlText = ConvertMarkdownToHtml(markdownText);
-            //Console.Write(htmlText);
+            string htmlText = ConvertMarkdownToHtml(markdownText);
+            Console.Write(htmlText);
             string htmlContent = @"
                     <!DOCTYPE html>
                     <html>
@@ -101,7 +101,7 @@ Click 'Workspace' button to save the generated idea into the program itself,
                     </style>
                     </head>
                     <body>
-                    " + markdownText + @"
+                    " + htmlText + @"
                     </body>
                     </html>
                     ";
