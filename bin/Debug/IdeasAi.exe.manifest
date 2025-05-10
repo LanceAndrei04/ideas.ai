@@ -79,14 +79,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IdeasAi.exe" size="2267136">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IdeasAi.exe" size="2267648">
       <assemblyIdentity name="IdeasAi" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>h7tU0LOgcHSzBEcv9fWQkvlqDWWyz9C5ZIgBCow6sWQ=</dsig:DigestValue>
+        <dsig:DigestValue>M9Z5IZwWupGFVH7a7T82V10Pvdc6R922ijTwzTCzMis=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -333,13 +333,13 @@
       <dsig:DigestValue>1Oh+yNyp5NhTyQp+lzzzxc/04OyUtfI/BAPzrVR1/l8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="IdeasAi.pdb" size="390656">
+  <file name="IdeasAi.pdb" size="392704">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qsSANAnOIBxGIWAgkspdo/SEG1+cmtX45NyQHMqMwiA=</dsig:DigestValue>
+      <dsig:DigestValue>rIhVQ12q7uhz3ZTnPkKBe+hHYCgAUs/DSNUvu9L6GfY=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

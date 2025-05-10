@@ -66,5 +66,10 @@ namespace IdeasAi.pages
             return null; // No errors
         }
 
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            mainForm.removeForm(this, mainForm.pnl_menuSect);
+            mainForm.loadForm(mainForm.frm_login, mainForm.pnl_menuSect);
+        }
     }
 }

@@ -53,6 +53,7 @@ namespace IdeasAi
         public frm_mindmap frm_mindmap;
         public frm_SPLASH frm_Splash;
         public frm_login frm_login;
+        public frm_register frm_register;
         //
         // MODALS
         //
@@ -67,7 +68,7 @@ namespace IdeasAi
         public ModalManager mdl_setter;
 
         public Button btn_active;
-        internal Form frm_register;
+        
 
         public MainForm(frm_SPLASH FRM_SPLASH)
         {
@@ -331,7 +332,9 @@ namespace IdeasAi
 
             if (result == DialogResult.Yes)
             {
-                Application.Exit();
+                loadForm(frm_home, pnl_content);
+                lbl_currentPage.Text = "Home";
+                this.loadForm(frm_login, pnl_menuSect);
             }
             // If No is clicked, do nothing
         }
