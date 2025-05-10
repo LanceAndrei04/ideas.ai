@@ -20,6 +20,7 @@ namespace IdeasAi.pages
         {
             InitializeComponent();
             this.mainForm = mainForm;
+            
         }
 
         private void btn_register_Click(object sender, EventArgs e)

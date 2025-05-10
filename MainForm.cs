@@ -325,19 +325,34 @@ namespace IdeasAi
         private void btn_exit_Click(object sender, EventArgs e)
         {
             DialogResult result = MessageBox.Show(
-                "Are you sure you want to logout?",
-                "Confirm Logout",
-                MessageBoxButtons.YesNo,
-                MessageBoxIcon.Warning);
+            "Are you sure you want to logout?",
+            "Confirm Logout",
+            MessageBoxButtons.YesNo,
+            MessageBoxIcon.Warning);
 
             if (result == DialogResult.Yes)
             {
-                loadForm(frm_home, pnl_content);
-                lbl_currentPage.Text = "Home";
-                this.loadForm(frm_login, pnl_menuSect);
+                
+                resetToHome();
+
+
+                if (frm_login == null)
+                {
+                    frm_login = new frm_login(this);
+                }
+
+                loadForm(frm_login, pnl_menuSect);
             }
-            // If No is clicked, do nothing
         }
+
+        public void resetToHome()
+        {
+            loadForm(frm_home, pnl_content);
+            lbl_currentPage.Text = "Home";
+            btn_addTab.Visible = false;
+            frm_home.SetGetStartedClickable(true);
+        }
+
         private void btn_howToUse_Click(object sender, EventArgs e)
         {
             var currentActivBtn = btn_active.Text.Trim();

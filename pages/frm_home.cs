@@ -52,6 +52,12 @@ namespace IdeasAi.pages
             }
         }
 
+        public void SetGetStartedClickable(bool clickable)
+        {
+            btn_getStarted.Enabled = clickable; 
+        }
+
+
         private void frm_home_Load(object sender, EventArgs e)
         {
 

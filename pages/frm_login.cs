@@ -17,6 +17,7 @@ namespace IdeasAi.pages
         {
             InitializeComponent();
             this.mainForm = mainForm;
+            mainForm.resetToHome();
 
         }
 
