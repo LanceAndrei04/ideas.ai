@@ -25,21 +25,30 @@ namespace IdeasAi.pages
             InitializeComponent();
             this.Text = title;
             lbl_message.Text = message;
+            lbl_msgType.Dock = DockStyle.Fill;
+            lbl_msgType.TextAlign = ContentAlignment.MiddleCenter;
 
             switch (type)
             {
                 case MessageType.Success:
-                    pic_icon.Image = Properties.Resources.notifSuccess; 
+                    lbl_msgType.Text = "Success";
+                    header.BackColor = Color.FromArgb(152, 229, 135);
+                    lbl_msgType.BackColor = Color.FromArgb(152, 229, 135);
                     btn_ok.Visible = true;
                     btn_cancel.Visible = false;
                     break;
                 case MessageType.Warning:
-                    pic_icon.Image = Properties.Resources.notifError;
+                    lbl_msgType.Text = "Warning";
+                    header.BackColor = Color.FromArgb(255, 189, 89);
+                    lbl_msgType.BackColor = Color.FromArgb(255, 189, 89);
                     btn_ok.Visible = true;
                     btn_cancel.Visible = false;
                     break;
                 case MessageType.Question:
-                    pic_icon.Image = Properties.Resources.notifInfo;
+                    lbl_msgType.Text = "Confirm";
+                    header.BackColor = Color.FromArgb(92, 225, 230);
+                    lbl_msgType.BackColor = Color.FromArgb(92, 225, 230);
+                    btn_ok.Text = "Confirm";
                     btn_ok.Visible = true;
                     btn_cancel.Visible = true;
                     break;

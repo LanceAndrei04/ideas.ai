@@ -8,6 +8,7 @@ using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static IdeasAi.pages.MessageDialog;
 
 namespace IdeasAi.pages
 {
@@ -31,18 +32,18 @@ namespace IdeasAi.pages
 
             if (string.IsNullOrEmpty(username))
             {
-                MessageBox.Show("Username cannot be empty.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageDialog.Show("Username cannot be empty.", "Warning", MessageType.Warning);
                 return;
             }
 
             string passwordError = ValidatePassword(password, confirmPassword);
             if (passwordError != null)
             {
-                MessageBox.Show(passwordError, "Password Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageDialog.Show(passwordError, "Password Error", MessageType.Warning);
                 return;
             }
 
-            MessageBox.Show("Registration successful.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageDialog.Show("Registration successful.", "Success",MessageType.Success);
             mainForm.removeForm(this, mainForm.pnl_menuSect);
 
         }
