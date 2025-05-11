@@ -16,12 +16,14 @@ namespace IdeasAi.pages
     {
        
         private MainForm mainForm;
+    
 
         public frm_register(MainForm mainform)
         {
             InitializeComponent();
             this.mainForm = mainForm;
-            
+           
+
         }
 
         private void btn_register_Click(object sender, EventArgs e)
@@ -44,7 +46,11 @@ namespace IdeasAi.pages
             }
 
             MessageDialog.Show("Registration successful.", "Success",MessageType.Success);
-            mainForm.removeForm(this, mainForm.pnl_menuSect);
+            txb_reg_user.Clear();
+            txb_reg_pw.Clear();
+            txb_reg_confpw.Clear();
+            this.Hide();
+
 
         }
 
@@ -53,25 +59,41 @@ namespace IdeasAi.pages
             if (string.IsNullOrEmpty(password) || string.IsNullOrEmpty(confirmPassword))
                 return "Password fields cannot be empty.";
 
-            if (password.Length < 8)
+            if (password.Length < 8) {
+                txb_reg_confpw.Clear();
+                txb_reg_pw.Clear();
                 return "Password must be at least 8 characters long.";
+            }
+               
 
             if (!password.Any(char.IsDigit))
+            {
+                txb_reg_confpw.Clear();
+                txb_reg_pw.Clear();
                 return "Password must contain at least one number.";
+            }
 
             if (!password.Any(ch => !char.IsLetterOrDigit(ch)))
+            {
+                txb_reg_confpw.Clear();
+                txb_reg_pw.Clear();
                 return "Password must contain at least one special character.";
+            }
+              
 
             if (password != confirmPassword)
+            {
+                txb_reg_confpw.Clear();
+                txb_reg_pw.Clear();
                 return "Passwords do not match.";
+            }
 
             return null; // No errors
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            mainForm.removeForm(this, mainForm.pnl_menuSect);
-            mainForm.loadForm(mainForm.frm_login, mainForm.pnl_menuSect);
+          mainForm.loadForm(mainForm.frm_login, mainForm.pnl_menuSect);
         }
     }
 }
