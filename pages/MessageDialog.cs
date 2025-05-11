@@ -25,28 +25,28 @@ namespace IdeasAi.pages
             InitializeComponent();
             this.Text = title;
             lbl_message.Text = message;
-            lbl_msgType.Dock = DockStyle.Fill;
-            lbl_msgType.TextAlign = ContentAlignment.MiddleCenter;
+            pnl_message.Resize += panel_message_Resize;
+
 
             switch (type)
             {
                 case MessageType.Success:
                     lbl_msgType.Text = "Success";
-                    header.BackColor = Color.FromArgb(152, 229, 135);
+                    dialog_color.BackColor = Color.FromArgb(152, 229, 135);
                     lbl_msgType.BackColor = Color.FromArgb(152, 229, 135);
                     btn_ok.Visible = true;
                     btn_cancel.Visible = false;
                     break;
                 case MessageType.Warning:
                     lbl_msgType.Text = "Warning";
-                    header.BackColor = Color.FromArgb(255, 189, 89);
+                    dialog_color.BackColor = Color.FromArgb(255, 189, 89);
                     lbl_msgType.BackColor = Color.FromArgb(255, 189, 89);
                     btn_ok.Visible = true;
                     btn_cancel.Visible = false;
                     break;
                 case MessageType.Question:
                     lbl_msgType.Text = "Confirm";
-                    header.BackColor = Color.FromArgb(92, 225, 230);
+                    dialog_color.BackColor = Color.FromArgb(92, 225, 230);
                     lbl_msgType.BackColor = Color.FromArgb(92, 225, 230);
                     btn_ok.Text = "Confirm";
                     btn_ok.Visible = true;
@@ -66,5 +66,15 @@ namespace IdeasAi.pages
                 return dialog.Result;
             }
         }
+
+        private void panel_message_Resize(object sender, EventArgs e)
+        {
+            lbl_message.Left = (pnl_message.Width - lbl_message.Width) / 2;
+            lbl_message.Top = (pnl_message.Height - lbl_message.Height) / 2;
+            lbl_msgType.Left = (dialog_color.Width - lbl_msgType.Width) / 2;
+            lbl_msgType.Top = (dialog_color.Height - lbl_msgType.Height) / 2;
+        }
+
+        
     }
 }

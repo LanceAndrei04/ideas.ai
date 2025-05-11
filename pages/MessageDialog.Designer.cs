@@ -31,9 +31,11 @@
             this.btn_ok = new System.Windows.Forms.Button();
             this.btn_cancel = new System.Windows.Forms.Button();
             this.lbl_message = new System.Windows.Forms.Label();
-            this.header = new System.Windows.Forms.PictureBox();
+            this.dialog_color = new System.Windows.Forms.FlowLayoutPanel();
+            this.pnl_message = new System.Windows.Forms.Panel();
             this.lbl_msgType = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.header)).BeginInit();
+            this.dialog_color.SuspendLayout();
+            this.pnl_message.SuspendLayout();
             this.SuspendLayout();
             // 
             // btn_ok
@@ -66,28 +68,37 @@
             // 
             this.lbl_message.AutoSize = true;
             this.lbl_message.Font = new System.Drawing.Font("Cascadia Code", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_message.Location = new System.Drawing.Point(12, 94);
+            this.lbl_message.Location = new System.Drawing.Point(13, 20);
             this.lbl_message.Name = "lbl_message";
             this.lbl_message.Size = new System.Drawing.Size(162, 20);
             this.lbl_message.TabIndex = 3;
             this.lbl_message.Text = "This is a message";
             this.lbl_message.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // header
+            // dialog_color
             // 
-            this.header.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(152)))), ((int)(((byte)(229)))), ((int)(((byte)(135)))));
-            this.header.Location = new System.Drawing.Point(-1, -2);
-            this.header.Name = "header";
-            this.header.Size = new System.Drawing.Size(375, 50);
-            this.header.TabIndex = 4;
-            this.header.TabStop = false;
+            this.dialog_color.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(152)))), ((int)(((byte)(229)))), ((int)(((byte)(135)))));
+            this.dialog_color.Controls.Add(this.lbl_msgType);
+            this.dialog_color.Location = new System.Drawing.Point(0, 0);
+            this.dialog_color.Name = "dialog_color";
+            this.dialog_color.Size = new System.Drawing.Size(374, 59);
+            this.dialog_color.TabIndex = 6;
+            // 
+            // pnl_message
+            // 
+            this.pnl_message.Controls.Add(this.lbl_message);
+            this.pnl_message.Location = new System.Drawing.Point(11, 78);
+            this.pnl_message.Name = "pnl_message";
+            this.pnl_message.Size = new System.Drawing.Size(351, 55);
+            this.pnl_message.TabIndex = 7;
             // 
             // lbl_msgType
             // 
             this.lbl_msgType.AutoSize = true;
             this.lbl_msgType.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(152)))), ((int)(((byte)(229)))), ((int)(((byte)(135)))));
             this.lbl_msgType.Font = new System.Drawing.Font("Cascadia Code", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_msgType.Location = new System.Drawing.Point(114, 18);
+            this.lbl_msgType.Location = new System.Drawing.Point(13, 20);
+            this.lbl_msgType.Margin = new System.Windows.Forms.Padding(13, 20, 13, 0);
             this.lbl_msgType.Name = "lbl_msgType";
             this.lbl_msgType.Size = new System.Drawing.Size(130, 22);
             this.lbl_msgType.TabIndex = 5;
@@ -100,18 +111,19 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.ClientSize = new System.Drawing.Size(374, 218);
-            this.Controls.Add(this.lbl_msgType);
-            this.Controls.Add(this.header);
-            this.Controls.Add(this.lbl_message);
             this.Controls.Add(this.btn_cancel);
             this.Controls.Add(this.btn_ok);
+            this.Controls.Add(this.dialog_color);
+            this.Controls.Add(this.pnl_message);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "MessageDialog";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MessageDialog";
-            ((System.ComponentModel.ISupportInitialize)(this.header)).EndInit();
+            this.dialog_color.ResumeLayout(false);
+            this.dialog_color.PerformLayout();
+            this.pnl_message.ResumeLayout(false);
+            this.pnl_message.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -119,7 +131,8 @@
         private System.Windows.Forms.Button btn_ok;
         private System.Windows.Forms.Button btn_cancel;
         private System.Windows.Forms.Label lbl_message;
-        private System.Windows.Forms.PictureBox header;
+        private System.Windows.Forms.FlowLayoutPanel dialog_color;
+        private System.Windows.Forms.Panel pnl_message;
         private System.Windows.Forms.Label lbl_msgType;
     }
 }
