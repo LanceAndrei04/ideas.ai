@@ -24,6 +24,8 @@ namespace IdeasAi.pages
         {
             InitializeComponent();
             this.Text = title;
+            lbl_message.MaximumSize = new Size(300, 0); // Width = 300px, unlimited height
+            lbl_message.Size = new Size(300, lbl_message.PreferredHeight); // Let height adjust
             lbl_message.Text = message;
             pnl_message.Resize += panel_message_Resize;
 

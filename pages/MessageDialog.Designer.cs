@@ -32,8 +32,8 @@
             this.btn_cancel = new System.Windows.Forms.Button();
             this.lbl_message = new System.Windows.Forms.Label();
             this.dialog_color = new System.Windows.Forms.FlowLayoutPanel();
-            this.pnl_message = new System.Windows.Forms.Panel();
             this.lbl_msgType = new System.Windows.Forms.Label();
+            this.pnl_message = new System.Windows.Forms.Panel();
             this.dialog_color.SuspendLayout();
             this.pnl_message.SuspendLayout();
             this.SuspendLayout();
@@ -66,9 +66,8 @@
             // 
             // lbl_message
             // 
-            this.lbl_message.AutoSize = true;
             this.lbl_message.Font = new System.Drawing.Font("Cascadia Code", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_message.Location = new System.Drawing.Point(13, 20);
+            this.lbl_message.Location = new System.Drawing.Point(13, 9);
             this.lbl_message.Name = "lbl_message";
             this.lbl_message.Size = new System.Drawing.Size(162, 20);
             this.lbl_message.TabIndex = 3;
@@ -84,14 +83,6 @@
             this.dialog_color.Size = new System.Drawing.Size(374, 59);
             this.dialog_color.TabIndex = 6;
             // 
-            // pnl_message
-            // 
-            this.pnl_message.Controls.Add(this.lbl_message);
-            this.pnl_message.Location = new System.Drawing.Point(11, 78);
-            this.pnl_message.Name = "pnl_message";
-            this.pnl_message.Size = new System.Drawing.Size(351, 55);
-            this.pnl_message.TabIndex = 7;
-            // 
             // lbl_msgType
             // 
             this.lbl_msgType.AutoSize = true;
@@ -104,6 +95,14 @@
             this.lbl_msgType.TabIndex = 5;
             this.lbl_msgType.Text = "Message Type";
             this.lbl_msgType.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // pnl_message
+            // 
+            this.pnl_message.Controls.Add(this.lbl_message);
+            this.pnl_message.Location = new System.Drawing.Point(11, 78);
+            this.pnl_message.Name = "pnl_message";
+            this.pnl_message.Size = new System.Drawing.Size(351, 55);
+            this.pnl_message.TabIndex = 7;
             // 
             // MessageDialog
             // 
@@ -122,7 +121,6 @@
             this.dialog_color.ResumeLayout(false);
             this.dialog_color.PerformLayout();
             this.pnl_message.ResumeLayout(false);
-            this.pnl_message.PerformLayout();
             this.ResumeLayout(false);
 
         }
