@@ -86,13 +86,13 @@
             // 
             this.lbl_msgType.AutoSize = true;
             this.lbl_msgType.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(152)))), ((int)(((byte)(229)))), ((int)(((byte)(135)))));
-            this.lbl_msgType.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.lbl_msgType.Font = new System.Drawing.Font("Cascadia Code", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_msgType.Location = new System.Drawing.Point(0, 0);
+            this.lbl_msgType.Font = new System.Drawing.Font("Cascadia Code", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_msgType.Location = new System.Drawing.Point(114, 18);
             this.lbl_msgType.Name = "lbl_msgType";
-            this.lbl_msgType.Size = new System.Drawing.Size(117, 20);
+            this.lbl_msgType.Size = new System.Drawing.Size(130, 22);
             this.lbl_msgType.TabIndex = 5;
             this.lbl_msgType.Text = "Message Type";
+            this.lbl_msgType.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // MessageDialog
             // 

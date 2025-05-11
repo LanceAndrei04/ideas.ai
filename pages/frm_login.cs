@@ -34,6 +34,7 @@ namespace IdeasAi.pages
         private void btn_login_Click(object sender, EventArgs e)
         {
             mainForm.removeForm(this, mainForm.pnl_menuSect);
+            mainForm.btn_addTab.Visible = true;
 
 
         }

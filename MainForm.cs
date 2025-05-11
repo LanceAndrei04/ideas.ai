@@ -348,6 +348,7 @@ namespace IdeasAi
             loadForm(frm_home, pnl_content);
             lbl_currentPage.Text = "Home";
             btn_addTab.Visible = false;
+            setActiveBtn(btn_home, pnl_pageTabs);
             frm_home.SetGetStartedClickable(true);
         }
 
@@ -661,7 +662,7 @@ namespace IdeasAi
             ToggleFullScreen();
         }
 
-        private void btn_addTab_Click(object sender, EventArgs e)
+        public void btn_addTab_Click(object sender, EventArgs e)
         {
             Panel tabPnl = new Panel();
             tabPnl.Dock = DockStyle.Left;
