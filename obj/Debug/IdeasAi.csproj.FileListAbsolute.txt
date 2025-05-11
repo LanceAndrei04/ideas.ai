@@ -409,3 +409,9 @@ C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Debug\IdeasAi.exe
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Debug\IdeasAi.pdb
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Debug\PlantUml.Net.dll
 C:\Users\Lance\Desktop\ideasAI\ideas.ai\obj\Debug\IdeasAi.pages.MessageDialog.resources
+C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Lance\Desktop\ideasAI\ideas.ai\bin\Debug\Microsoft.Web.WebView2.Wpf.dll

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Fuq2vMOEM8M=",
+  "dgSpecHash": "iBcmNJFUb5w=",
   "success": true,
   "projectFilePath": "C:\\Users\\Lance\\Desktop\\ideasAI\\ideas.ai\\IdeasAi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lance\\.nuget\\packages\\markdig\\0.41.1\\markdig.0.41.1.nupkg.sha512",
+    "C:\\Users\\Lance\\.nuget\\packages\\microsoft.web.webview2\\1.0.3240.44\\microsoft.web.webview2.1.0.3240.44.nupkg.sha512",
     "C:\\Users\\Lance\\.nuget\\packages\\plantuml.net\\1.4.80\\plantuml.net.1.4.80.nupkg.sha512",
     "C:\\Users\\Lance\\.nuget\\packages\\system.buffers\\4.6.1\\system.buffers.4.6.1.nupkg.sha512",
     "C:\\Users\\Lance\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",

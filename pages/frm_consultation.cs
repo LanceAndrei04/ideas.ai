@@ -8,12 +8,17 @@ using Microsoft.Win32;
 using IdeasAi.db;
 using IdeasAi.ai_responses;
 using System.Drawing;
+using Microsoft.Web.WebView2.WinForms;
+using System.Threading.Tasks;
+
 
 
 namespace IdeasAi.PageForms
 {
     public partial class frm_consultation : Form
     {
+        
+
         public const string howToUse = @"Provide question to the prompt.
 
 The program will generate ideas related to the topic inputted.
@@ -35,7 +40,8 @@ Click 'Workspace' button to save the generated idea into the program itself,
             InitializeComponent();
             this.mainForm = _mainForm;
             saver_obj = new DBObjectManager();
-            OptimizeInternetExplorerVersion();
+            //OptimizeInternetExplorerVersion();
+            InitializeWebView2();
 
             if (mainForm.btn_toggleDarkMode.Dock == DockStyle.Right)
             {
@@ -46,9 +52,11 @@ Click 'Workspace' button to save the generated idea into the program itself,
                 this.BackColor = ColorTranslator.FromHtml((string)mainForm.decors["Themes"]["DarkTheme"]["primary100"]);
             }
 
-            wb_container.Focus();
+            //wb_container.Focus();
+            webViewContainer.EnsureCoreWebView2Async();
+
         }
-        private void OptimizeInternetExplorerVersion()
+        /*private void OptimizeInternetExplorerVersion()
         {
             var appName = System.Diagnostics.Process.GetCurrentProcess().ProcessName + ".exe";
 
@@ -59,7 +67,20 @@ Click 'Workspace' button to save the generated idea into the program itself,
 
             wb_container.Navigate("https://google.com/");
 
+        }*/
+        private async void InitializeWebView2()
+        {
+            try
+            {
+                await webViewContainer.EnsureCoreWebView2Async();
+                webViewContainer.CoreWebView2.Navigate("https://google.com/");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("WebView2 failed to initialize: " + ex.Message);
+            }
         }
+
         private string ConvertMarkdownToHtml(string markdownText)
         {
             try
@@ -74,40 +95,63 @@ Click 'Workspace' button to save the generated idea into the program itself,
             }
         }
 
-        public void displayResult(string markdownText)
+        public async void displayResult(string markdownText)
         {
-            string htmlText = ConvertMarkdownToHtml(markdownText);
-            Console.Write(htmlText);
-            string htmlContent = @"
-                    <!DOCTYPE html>
-                    <html>
-                    <head>
-                    <style>
-                        table {
+            try
+            {
+                var pipeline = new MarkdownPipelineBuilder().UseAdvancedExtensions().Build();
+                string htmlText = Markdig.Markdown.ToHtml(markdownText, pipeline);
+
+                string htmlContent = $@"
+            <!DOCTYPE html>
+            <html>
+            <head>
+                <meta charset='UTF-8'>
+                <style>
+                    body {{
+                        font-family: Arial, sans-serif;
+                        margin: 20px;
+                    }}
+                    table {{
                         border-collapse: collapse;
                         width: 100%;
-                          }
-                          th, td {
-                            border: 1px solid black;
-                            padding: 8px;
-                            text-align: left;
-                          }
-                          tr:nth-child(even) {
-                            background-color: #b0d07e;
-                          }
-                          th {
-                            background-color: #b0d07e;
-                           }
-                    </style>
-                    </head>
-                    <body>
-                    " + htmlText + @"
-                    </body>
-                    </html>
-                    ";
+                    }}
+                    th, td {{
+                        border: 1px solid black;
+                        padding: 8px;
+                        text-align: left;
+                    }}
+                    tr:nth-child(even) {{
+                        background-color: #b0d07e;
+                    }}
+                    th {{
+                        background-color: #b0d07e;
+                    }}
+                </style>
+            </head>
+            <body>
+                {htmlText}
+            </body>
+            </html>";
 
-            this.wb_container.DocumentText = htmlContent;
+                await webViewContainer.EnsureCoreWebView2Async(); // Ensure WebView2 is ready
+                webViewContainer.NavigateToString(htmlContent);
+            }
+            catch (Exception ex)
+            {
+                string errorHtml = $@"
+            <html>
+                <body>
+                    <h2>Something went wrong</h2>
+                    <p>Please check your internet connection and try again by asking appropriate questions in a clear manner.</p>
+                    <p><strong>Error:</strong> {ex.Message}</p>
+                </body>
+            </html>";
+                await webViewContainer.EnsureCoreWebView2Async();
+                webViewContainer.NavigateToString(errorHtml);
+            }
         }
+
         public async void loadConsultation(mdl_loading loader)
         {
             btn_send.Enabled = false;
@@ -137,8 +181,16 @@ Click 'Workspace' button to save the generated idea into the program itself,
             }
             catch (Exception ex)
             {
-                wb_container.DocumentText = $"Something went wrong. Please check your internet connection and try again  by asking appropriate questions in a clear manner. Thank you!";
-                mainForm.addNotification("error", "An error occured!", $"{ex.Message}");
+                string errorHtml = @"
+        <html>
+            <body>
+                <h2>Something went wrong</h2>
+                <p>Please check your internet connection and try again by asking appropriate questions in a clear manner. Thank you!</p>
+            </body>
+        </html>";
+
+                webViewContainer.NavigateToString(errorHtml);
+                mainForm.addNotification("error", "An error occurred!", $"{ex.Message}");
             }
             finally
             {
@@ -164,9 +216,12 @@ Click 'Workspace' button to save the generated idea into the program itself,
 
             ModalManager.ShowModal(mainForm, this, saveLoader);
         }
-        private void btn_print_Click(object sender, EventArgs e)
+        private async void btn_print_Click(object sender, EventArgs e)
         {
-            wb_container.ShowPrintDialog();
+            if (webViewContainer.CoreWebView2 != null)
+            {
+                await webViewContainer.CoreWebView2.ExecuteScriptAsync("window.print();");
+            }
         }
         private void btn_toWorkspace_Click(object sender, EventArgs e)
         {
@@ -220,9 +275,10 @@ Click 'Workspace' button to save the generated idea into the program itself,
             return ref btn_toWorkspace;
         }
 
-        private void btn_searchMode_Click(object sender, EventArgs e)
+        private async void btn_searchMode_Click(object sender, EventArgs e)
         {
-            wb_container.Navigate("google.com");
+            await webViewContainer.EnsureCoreWebView2Async();
+            webViewContainer.Source = new Uri("https://www.google.com");
         }
 
         private void txb_Consult_Enter(object sender, EventArgs e)

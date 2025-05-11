@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="IdeasAi.exe.manifest" size="20450">
+    <dependentAssembly dependencyType="install" codebase="IdeasAi.exe.manifest" size="23855">
       <assemblyIdentity name="IdeasAi.exe" version="1.0.0.7" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>m2Ch8+WnTaR0qKtDf5cWy2mfoKVQeEd2ssKZEieYLw0=</dsig:DigestValue>
+        <dsig:DigestValue>8CLLiVQ6Zt0gzvBjk6aPBJniSb/RxjSMUMWgg4SZ8zU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

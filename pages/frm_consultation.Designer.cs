@@ -32,7 +32,6 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_consultation));
             this.panel1 = new System.Windows.Forms.Panel();
             this.pnl_wbCont = new System.Windows.Forms.Panel();
-            this.wb_container = new System.Windows.Forms.WebBrowser();
             this.panel3 = new System.Windows.Forms.Panel();
             this.btn_searchMode = new System.Windows.Forms.Button();
             this.btn_toWorkspace = new System.Windows.Forms.Button();
@@ -47,12 +46,14 @@
             this.txb_Consult = new System.Windows.Forms.RichTextBox();
             this.panel5 = new System.Windows.Forms.Panel();
             this.btn_send = new System.Windows.Forms.Button();
+            this.webViewContainer = new Microsoft.Web.WebView2.WinForms.WebView2();
             this.panel1.SuspendLayout();
             this.pnl_wbCont.SuspendLayout();
             this.panel3.SuspendLayout();
             this.panel2.SuspendLayout();
             this.pnl_borderTxb.SuspendLayout();
             this.pnl_txbCont.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.webViewContainer)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -70,23 +71,13 @@
             // pnl_wbCont
             // 
             this.pnl_wbCont.BackColor = System.Drawing.Color.Transparent;
-            this.pnl_wbCont.Controls.Add(this.wb_container);
+            this.pnl_wbCont.Controls.Add(this.webViewContainer);
             this.pnl_wbCont.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnl_wbCont.Location = new System.Drawing.Point(0, 93);
             this.pnl_wbCont.Name = "pnl_wbCont";
             this.pnl_wbCont.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
             this.pnl_wbCont.Size = new System.Drawing.Size(930, 459);
             this.pnl_wbCont.TabIndex = 12;
-            // 
-            // wb_container
-            // 
-            this.wb_container.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.wb_container.Location = new System.Drawing.Point(15, 0);
-            this.wb_container.MinimumSize = new System.Drawing.Size(20, 20);
-            this.wb_container.Name = "wb_container";
-            this.wb_container.ScriptErrorsSuppressed = true;
-            this.wb_container.Size = new System.Drawing.Size(900, 459);
-            this.wb_container.TabIndex = 7;
             // 
             // panel3
             // 
@@ -172,6 +163,7 @@
             this.btn_print.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btn_print.UseVisualStyleBackColor = false;
             this.btn_print.Click += new System.EventHandler(this.btn_print_Click);
+
             // 
             // panel6
             // 
@@ -297,6 +289,18 @@
             this.btn_send.UseVisualStyleBackColor = false;
             this.btn_send.Click += new System.EventHandler(this.btn_send_Click);
             // 
+            // webViewContainer
+            // 
+            this.webViewContainer.AllowExternalDrop = true;
+            this.webViewContainer.CreationProperties = null;
+            this.webViewContainer.DefaultBackgroundColor = System.Drawing.Color.White;
+            this.webViewContainer.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.webViewContainer.Location = new System.Drawing.Point(15, 0);
+            this.webViewContainer.Name = "webViewContainer";
+            this.webViewContainer.Size = new System.Drawing.Size(900, 459);
+            this.webViewContainer.TabIndex = 8;
+            this.webViewContainer.ZoomFactor = 1D;
+            // 
             // frm_consultation
             // 
             this.AllowDrop = true;
@@ -314,6 +318,7 @@
             this.panel2.ResumeLayout(false);
             this.pnl_borderTxb.ResumeLayout(false);
             this.pnl_txbCont.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.webViewContainer)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -322,7 +327,6 @@
 
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.WebBrowser wb_container;
         private System.Windows.Forms.Panel pnl_txbCont;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Button btn_save;
@@ -337,5 +341,6 @@
         private System.Windows.Forms.Button btn_searchMode;
         public System.Windows.Forms.Button btn_send;
         public System.Windows.Forms.RichTextBox txb_Consult;
+        private Microsoft.Web.WebView2.WinForms.WebView2 webViewContainer;
     }
 }
