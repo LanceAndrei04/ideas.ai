@@ -101,5 +101,7 @@ Thank You!
 
 ---
 
+## XI. Acknowledgement
+<p align="justify">The Idea.AI Team would like to sincerely express our gratitude to our professor and course facilitator, <strong>Ms. Fatima Marie P. Agdon 🌸✨</strong>,  for her continued guidance, lectures, and feedbacks since the beginning. Her teachings and encouragement are vital to the production and development of our application.</p>
 
 
