@@ -18,7 +18,7 @@ namespace IdeasAi.pages
         private MainForm mainForm;
     
 
-        public frm_register(MainForm mainform)
+        public frm_register(MainForm mainForm)
         {
             InitializeComponent();
             this.mainForm = mainForm;
@@ -49,7 +49,9 @@ namespace IdeasAi.pages
             txb_reg_user.Clear();
             txb_reg_pw.Clear();
             txb_reg_confpw.Clear();
+            mainForm.btn_addTab.Visible = true;
             this.Hide();
+            
 
 
         }
