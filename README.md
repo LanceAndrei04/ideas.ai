@@ -92,7 +92,17 @@ _Interactive Development and Exploration Assistant_
 
 ---
 
+## X. Conclusion 
 
+<p align="justify">The developed system shows the transformational potential of an AI-driven system whose purpose is to help students develop ideas within educational contexts. QHub, Notebook, Workspace, and Mindmap show how AI can be effectively incorporated into educational processes to encourage students in critical and creative thinking.</p>
+
+<p align="justify">The developed system improves system speed, user experience, and utilizes AI technology, opening the door for dynamic and engaging learning environments.</p>
+Thank You! 
+
+---
+
+## XI. Acknowledgement
+<p align="justify">The Idea.AI Team would like to sincerely express our gratitude to our professor and course facilitator, <strong>Ms. Fatima Marie P. Agdon 🌸✨</strong>,  for her continued guidance, lectures, and feedbacks since the beginning. Her teachings and encouragement are vital to the production and development of our application.</p>
 
 
 
