@@ -79,6 +79,7 @@ Now you're ready to start using Idea.AI!
 - **System Design Pattern:** Builder design pattern
 - **System Development Methodology:** Rapid Application Development
 
+
 ## Gemini AI 
 
 <p align="justify">Gemini, developed by <strong>Google DeepMind</strong>, stands out as a groundbreaking multimodal language model capable of processing diverse information types, such as text, code, audio, images, and video. With three optimized versions tailored to different needs, Gemini offers versatility for various tasks and devices.</p>
@@ -109,7 +110,7 @@ This guide outlines how to use the system’s key features: **QHub**, **Workspac
 
 Before accessing any feature, you must log in to your Idea.AI account.
 
-![Idea.AI Screenshot](images/login.png)
+![Idea.AI Login](images/login.png)
 
 #### ✅ How to Log In:
 1. Launch the application.
@@ -123,7 +124,7 @@ Before accessing any feature, you must log in to your Idea.AI account.
 
 - **AI Assistant** – Powered by an integrated AI model (ProfessorNeko) to generate tailored responses.
 
-![Idea.AI Screenshot](images/qhub.jpg)
+![Idea.AI QHub](images/qhub.jpg)
 
 #### ✅ How to Use:
 1. Go to the **QHub** section.
@@ -140,7 +141,7 @@ The **Workspace** provides a creative environment for developing and expanding i
 - Add and structure content freely.
 - Link related ideas and documents.
 
-![Idea.AI Screenshot](images/workspace.jpg)
+![Idea.AI Workspace](images/workspace.jpg)
 
 #### ✅ How to Use:
 1. Navigate to the **Workspace** section.
@@ -160,7 +161,7 @@ The **Notebook** is where all your generated or manually written ideas are store
 - Search and organize with ease.
 - Create, update, or delete notes.
 
-  ![Idea.AI Screenshot](images/notebookAI.jpg)
+  ![Idea.AI Notebook](images/notebookAI.jpg)
 
 #### ✅ How to Use:
 1. Open the **Notebook** section.
@@ -181,7 +182,7 @@ The **MindMap** feature transforms your notes into interactive diagrams for bett
 - Customize node structure and appearance.
 - Export visual diagrams for sharing.
 
-  ![Idea.AI Screenshot](images/mindmap.jpg)
+  ![Idea.AI Mindmap](images/mindmap.jpg)
 
 #### ✅ How to Use:
 1. From **Notebook** or **Workspace**, select a note.
