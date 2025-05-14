@@ -108,7 +108,7 @@ Before accessing any feature, you must log in to your Idea.AI account.
 3. Click **Login**.
 4. Once logged in, you'll be directed to the **Home** screen where you can begin using the system.
 
-### 🔍 Step 2: Generate Ideas Using QHub
+### Step 2: Generate Ideas Using QHub
 
 **QHub** is the system’s intelligent query interface. It allows users to ask questions and receive helpful responses via:
 
@@ -122,7 +122,7 @@ Before accessing any feature, you must log in to your Idea.AI account.
 3. Click **Submit**.
 4. Review the results.
    
-### 🛠️ Step 3: Refine Ideas in the Workspace
+### Step 3: Refine Ideas in the Workspace
 
 The **Workspace** provides a creative environment for developing and expanding ideas saved from QHub or created manually.
 
@@ -142,7 +142,7 @@ The **Workspace** provides a creative environment for developing and expanding i
 4. Edit content using the text editor.
 5. Changes are saved automatically.
 
-### 📝 Step 4: Organize Your Work in the Notebook
+### Step 4: Organize Your Work in the Notebook
 
 The **Notebook** is where all your generated or manually written ideas are stored and organized.
 
@@ -151,7 +151,7 @@ The **Notebook** is where all your generated or manually written ideas are store
 - Search and organize with ease.
 - Create, update, or delete notes.
 
-  ![Idea.AI Screenshot](images/notebook(2).jpg)
+  ![Idea.AI Screenshot](images/notebookAI.jpg)
 
 #### ✅ How to Use:
 1. Open the **Notebook** section.
@@ -163,7 +163,7 @@ The **Notebook** is where all your generated or manually written ideas are store
    - Delete if necessary.
 5. Use **Quick Search** to find content instantly.
 
-### 🧠 Step 5: Visualize Concepts with MindMap
+### Step 5: Visualize Concepts with MindMap
 
 The **MindMap** feature transforms your notes into interactive diagrams for better clarity and structure.
 
