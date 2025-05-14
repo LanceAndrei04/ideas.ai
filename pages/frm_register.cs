@@ -50,8 +50,8 @@ namespace IdeasAi.pages
             txb_reg_pw.Clear();
             txb_reg_confpw.Clear();
             mainForm.btn_addTab.Visible = true;
-            this.Hide();
-            
+            //this.Hide();
+            mainForm.removeForm(this, mainForm.pnl_menuSect);
 
 
         }

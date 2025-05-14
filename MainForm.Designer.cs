@@ -226,7 +226,7 @@ namespace IdeasAi
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(330, 50);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Ideas.AI - Your Creative Playground";
+            this.label1.Text = "Idea.AI - Your Creative Playground";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // panel1
@@ -476,7 +476,7 @@ namespace IdeasAi
             this.pnl_menuSect.Controls.Add(this.pnl_sideContentHolder);
             this.pnl_menuSect.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnl_menuSect.Location = new System.Drawing.Point(2, 2);
-            this.pnl_menuSect.Margin = new System.Windows.Forms.Padding(0, 0, 0, 0);
+            this.pnl_menuSect.Margin = new System.Windows.Forms.Padding(0);
             this.pnl_menuSect.Name = "pnl_menuSect";
             this.pnl_menuSect.Padding = new System.Windows.Forms.Padding(20, 15, 20, 15);
             this.pnl_menuSect.Size = new System.Drawing.Size(274, 624);
