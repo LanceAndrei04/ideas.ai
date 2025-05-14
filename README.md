@@ -7,9 +7,6 @@ _Interactive Development and Exploration Assistant_
 
 👉 [Download the App here!](https://drive.google.com/drive/u/1/folders/1JvOqooKC-B-Qq9rbWJcoc64LmKh7Swrz)
 
----
-## Installation Instruction
-
 ### How to Download and Install:
 1. Click on the **Download** link above.
 2. Navigate to the **IdeasAI** folder in your Google Drive.
