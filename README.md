@@ -3,7 +3,7 @@ _Interactive Development and Exploration Assistant_
 
 ## I. System Overview
 
-<p align="justify"><strong>Idea.AI</strong> is an interactive platform designed to assist individuals, particularly students, in generating fresh ideas through artificial intelligence.It facilitates a collaborative environment where users can leverage AI to explore and develop innovative concepts.</p>
+<p align="justify"><strong>Idea.AI</strong> is an interactive platform designed to assist individuals, particularly students, in generating fresh ideas through artificial intelligence. It facilitates a collaborative environment where users can leverage AI to explore and develop innovative concepts.</p>
 
 👉 [Download the App here!](https://drive.google.com/drive/u/1/folders/1JvOqooKC-B-Qq9rbWJcoc64LmKh7Swrz)
 
