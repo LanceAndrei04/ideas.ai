@@ -23,8 +23,11 @@ Now you're ready to start using Idea.AI!
 - Ebora, Ma. Mikaella 
 - Espina, Lance Andrei 
 - Lejano, Nathaniel 
-- Tolentino, John Benedict 
+- Tolentino, John Benedict
 
+## Course Instructor :
+- **Ms. Fatima Marie P. Agdon, MSCS**
+  
 ## With Special Thanks to the Original Developers :
 - Caguicla, Fhil Joshua
 - Campued, Maryflor
