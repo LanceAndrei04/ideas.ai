@@ -158,7 +158,7 @@ The **Notebook** is where all your generated or manually written ideas are store
 - Search and organize with ease.
 - Create, update, or delete notes.
 
-  ![Idea.AI Screenshot](images/notebook.jpg)
+  ![Idea.AI Screenshot](images/notebook .jpg)
 
 #### ✅ How to Use:
 1. Open the **Notebook** section.
