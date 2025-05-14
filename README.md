@@ -101,6 +101,8 @@ This guide outlines how to use the system’s key features: **QHub**, **Workspac
 
 Before accessing any feature, you must log in to your Idea.AI account.
 
+![Idea.AI Screenshot](images/login.jpg)
+
 #### ✅ How to Log In:
 1. Launch the application.
 2. Enter your **username** and **password**.
