@@ -127,6 +127,69 @@ Before accessing any feature, you must log in to your Idea.AI account.
 6. Click **Save to Notebook** to store the idea.
 
 ---
+### 🛠️ Step 3: Refine Ideas in the Workspace
+
+The **Workspace** provides a creative environment for developing and expanding ideas saved from QHub or created manually.
+
+#### ✨ Features:
+- Rich text editing support.
+- Add and structure content freely.
+- Link related ideas and documents.
+
+#### ✅ How to Use:
+1. Navigate to the **Workspace** section.
+2. Choose to:
+   - Create a new workspace entry.
+   - Open an existing note.
+3. Edit content using the text editor.
+4. Changes are saved automatically.
+
+---
+
+### 📝 Step 4: Organize Your Work in the Notebook
+
+The **Notebook** is where all your generated or manually written ideas are stored and organized.
+
+#### ✨ Features:
+- View all saved ideas and notes.
+- Search and organize with ease.
+- Create, update, or delete notes.
+
+#### ✅ How to Use:
+1. Open the **Notebook** section.
+2. Browse notes by date or category.
+3. Click any note to:
+   - View details.
+   - Edit content.
+   - Delete if necessary.
+4. Use **Quick Search** to find content instantly.
+
+---
+
+### 🧠 Step 5: Visualize Concepts with MindMap
+
+The **MindMap** feature transforms your notes into interactive diagrams for better clarity and structure.
+
+#### ✨ Features:
+- Automatically generate mind maps from notes.
+- Customize node structure and appearance.
+- Export visual diagrams for sharing.
+
+#### ✅ How to Use:
+1. From **Notebook** or **Workspace**, select a note.
+2. Click **Generate MindMap**.
+3. Review and edit the auto-generated map.
+4. Add, remove, or link nodes.
+5. Save or export the final mind map.
+
+---
+
+### 🔄 Additional Tools
+
+- **Quick Search** – Instantly locate notes or keywords across all sections.
+- **Organize** – Group related content into folders or categories for easier access.
+
+---
 
 ## XI. Conclusion 
 
@@ -135,8 +198,6 @@ Before accessing any feature, you must log in to your Idea.AI account.
 <p align="justify">The developed system improves system speed, user experience, and utilizes AI technology, opening the door for dynamic and engaging learning environments.</p>
 Thank You! 
 
----
----
 --- 
 ## XI. Acknowledgement
 <p align="justify">The Idea.AI Team would like to sincerely express our gratitude to our professor and course facilitator, <strong>Ms. Fatima Marie P. Agdon 🌸✨</strong>,  for her continued guidance, lectures, and feedbacks since the beginning. Her teachings and encouragement are vital to the production and development of our application.</p>
