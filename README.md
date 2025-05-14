@@ -91,13 +91,25 @@ _Interactive Development and Exploration Assistant_
   <p align="justify">The program offers an <strong>"Automatic Mind Map"</strong> feature designed to streamline brainstorming and visualize ideas by transforming raw concepts into a clear, structured format. It supports studies on information overload by assisting in information organization. To use it, users input notes or documents into the system, and AI algorithms generate a tailored mind map, aiding in understanding, retention, and decision-making. Users can then manage study materials, streamline learning, and achieve academic success.</p>
 
 ---
-## X. 📘 User Guide: How to Use the Idea Management System
+## X. 📘 User Guide: How to Use the program
 
 This guide outlines how to use the system’s key features: **QHub**, **Workspace**, **Notebook**, and **MindMap**. Each module is designed to support idea generation, development, and visualization through a seamless and structured workflow.
 
 ---
 
-### 🔍 Step 1: Generate Ideas Using QHub
+### 🔐 Step 1: Login to the System
+
+Before accessing any feature, you must log in to your Idea.AI account.
+
+#### ✅ How to Log In:
+1. Launch the application.
+2. Enter your **username** and **password**.
+3. Click **Login**.
+4. Once logged in, you'll be directed to the **Home** screen where you can begin using the system.
+
+---
+
+### 🔍 Step 2: Generate Ideas Using QHub
 
 **QHub** is the system’s intelligent query interface. It allows users to ask questions and receive helpful responses via:
 
@@ -115,26 +127,6 @@ This guide outlines how to use the system’s key features: **QHub**, **Workspac
 6. Click **Save to Notebook** to store the idea.
 
 ---
-
-### 🛠️ Step 2: Refine Ideas in the Workspace
-
-The **Workspace** provides a creative environment for developing and expanding ideas saved from QHub or created manually.
-
-#### ✨ Features:
-- Rich text editing support.
-- Add and structure content freely.
-- Link related ideas and documents.
-
-#### ✅ How to Use:
-1. Navigate to the **Workspace** section.
-2. Choose to:
-   - Create a new workspace entry.
-   - Open an existing note.
-3. Edit content using the text editor.
-4. Changes are saved automatically.
-
----
-
 
 ## XI. Conclusion 
 
