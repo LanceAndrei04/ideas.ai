@@ -91,13 +91,12 @@ _Interactive Development and Exploration Assistant_
   <p align="justify">The program offers an <strong>"Automatic Mind Map"</strong> feature designed to streamline brainstorming and visualize ideas by transforming raw concepts into a clear, structured format. It supports studies on information overload by assisting in information organization. To use it, users input notes or documents into the system, and AI algorithms generate a tailored mind map, aiding in understanding, retention, and decision-making. Users can then manage study materials, streamline learning, and achieve academic success.</p>
 
 ---
-## X. 📘 User Guide: How to Use the program
+## X. User Guide: How to Use the Program
 
 This guide outlines how to use the system’s key features: **QHub**, **Workspace**, **Notebook**, and **MindMap**. Each module is designed to support idea generation, development, and visualization through a seamless and structured workflow.
 
----
 
-### 🔐 Step 1: Login to the System
+### Step 1: Login to the System
 
 Before accessing any feature, you must log in to your Idea.AI account.
 
@@ -109,8 +108,6 @@ Before accessing any feature, you must log in to your Idea.AI account.
 3. Click **Login**.
 4. Once logged in, you'll be directed to the **Home** screen where you can begin using the system.
 
----
-
 ### 🔍 Step 2: Generate Ideas Using QHub
 
 **QHub** is the system’s intelligent query interface. It allows users to ask questions and receive helpful responses via:
@@ -119,14 +116,12 @@ Before accessing any feature, you must log in to your Idea.AI account.
 
 ![Idea.AI Screenshot](images/qhub.jpg)
 
-
 #### ✅ How to Use:
 1. Go to the **QHub** section.
 2. Enter your question or idea in the input box.
 3. Click **Submit**.
 4. Review the results.
    
----
 ### 🛠️ Step 3: Refine Ideas in the Workspace
 
 The **Workspace** provides a creative environment for developing and expanding ideas saved from QHub or created manually.
@@ -136,7 +131,7 @@ The **Workspace** provides a creative environment for developing and expanding i
 - Add and structure content freely.
 - Link related ideas and documents.
 
-  ![Idea.AI Screenshot](images/workspace.jpg)
+![Idea.AI Screenshot](images/workspace.jpg)
 
 #### ✅ How to Use:
 1. Navigate to the **Workspace** section.
@@ -147,8 +142,6 @@ The **Workspace** provides a creative environment for developing and expanding i
 4. Edit content using the text editor.
 5. Changes are saved automatically.
 
----
-
 ### 📝 Step 4: Organize Your Work in the Notebook
 
 The **Notebook** is where all your generated or manually written ideas are stored and organized.
@@ -158,7 +151,7 @@ The **Notebook** is where all your generated or manually written ideas are store
 - Search and organize with ease.
 - Create, update, or delete notes.
 
-  ![Idea.AI Screenshot](images/notebook .jpg)
+  ![Idea.AI Screenshot](images/notebook(2).jpg)
 
 #### ✅ How to Use:
 1. Open the **Notebook** section.
@@ -169,8 +162,6 @@ The **Notebook** is where all your generated or manually written ideas are store
    - Edit content.
    - Delete if necessary.
 5. Use **Quick Search** to find content instantly.
-
----
 
 ### 🧠 Step 5: Visualize Concepts with MindMap
 
@@ -191,14 +182,6 @@ The **MindMap** feature transforms your notes into interactive diagrams for bett
 5. Save or export the final mind map.
 
 ---
-
-### 🔄 Additional Tools
-
-- **Quick Search** – Instantly locate notes or keywords across all sections.
-- **Organize** – Group related content into folders or categories for easier access.
-
----
-
 ## XI. Conclusion 
 
 <p align="justify">The developed system shows the transformational potential of an AI-driven system whose purpose is to help students develop ideas within educational contexts. QHub, Notebook, Workspace, and Mindmap show how AI can be effectively incorporated into educational processes to encourage students in critical and creative thinking.</p>
