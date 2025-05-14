@@ -91,8 +91,52 @@ _Interactive Development and Exploration Assistant_
   <p align="justify">The program offers an <strong>"Automatic Mind Map"</strong> feature designed to streamline brainstorming and visualize ideas by transforming raw concepts into a clear, structured format. It supports studies on information overload by assisting in information organization. To use it, users input notes or documents into the system, and AI algorithms generate a tailored mind map, aiding in understanding, retention, and decision-making. Users can then manage study materials, streamline learning, and achieve academic success.</p>
 
 ---
+## X. 📘 User Guide: How to Use the Idea Management System
 
-## X. Conclusion 
+This guide outlines how to use the system’s key features: **QHub**, **Workspace**, **Notebook**, and **MindMap**. Each module is designed to support idea generation, development, and visualization through a seamless and structured workflow.
+
+---
+
+### 🔍 Step 1: Generate Ideas Using QHub
+
+**QHub** is the system’s intelligent query interface. It allows users to ask questions and receive helpful responses via:
+
+- **AI Assistant** – Powered by an integrated AI model (ProfessorNeko) to generate tailored responses.
+- **Google Search** – Offers real-time information retrieval for broader or more specific needs.
+
+#### ✅ How to Use:
+1. Go to the **QHub** section.
+2. Enter your question or idea in the input box.
+3. Select:
+   - **AI Response** for an AI-generated idea.
+   - **Google Search** to explore the web.
+4. Click **Submit**.
+5. Review the results.
+6. Click **Save to Notebook** to store the idea.
+
+---
+
+### 🛠️ Step 2: Refine Ideas in the Workspace
+
+The **Workspace** provides a creative environment for developing and expanding ideas saved from QHub or created manually.
+
+#### ✨ Features:
+- Rich text editing support.
+- Add and structure content freely.
+- Link related ideas and documents.
+
+#### ✅ How to Use:
+1. Navigate to the **Workspace** section.
+2. Choose to:
+   - Create a new workspace entry.
+   - Open an existing note.
+3. Edit content using the text editor.
+4. Changes are saved automatically.
+
+---
+
+
+## XI. Conclusion 
 
 <p align="justify">The developed system shows the transformational potential of an AI-driven system whose purpose is to help students develop ideas within educational contexts. QHub, Notebook, Workspace, and Mindmap show how AI can be effectively incorporated into educational processes to encourage students in critical and creative thinking.</p>
 
@@ -100,7 +144,8 @@ _Interactive Development and Exploration Assistant_
 Thank You! 
 
 ---
-
+---
+--- 
 ## XI. Acknowledgement
 <p align="justify">The Idea.AI Team would like to sincerely express our gratitude to our professor and course facilitator, <strong>Ms. Fatima Marie P. Agdon 🌸✨</strong>,  for her continued guidance, lectures, and feedbacks since the beginning. Her teachings and encouragement are vital to the production and development of our application.</p>
 
