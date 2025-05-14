@@ -6,9 +6,19 @@ _Interactive Development and Exploration Assistant_
 <p align="justify"><strong>Idea.AI</strong> is an interactive platform designed to assist individuals, particularly students, in generating fresh ideas through artificial intelligence. It facilitates a collaborative environment where users can leverage AI to explore and develop innovative concepts.</p>
 
 👉 [Download the App here!](https://drive.google.com/drive/u/1/folders/1JvOqooKC-B-Qq9rbWJcoc64LmKh7Swrz)
-
 ---
+## Installation Instruction
 
+### How to Download and Install:
+1. Click on the **Download** link above.
+2. Navigate to the **IdeasAI** folder in your Google Drive.
+3. Download the **ZIP** file to your computer.
+4. After downloading, **unzip** the file.
+5. Inside the unzipped folder, find the **.exe** file.
+6. Double-click the **.exe** file to launch the application.
+
+Now you're ready to start using Idea.AI!
+---
 ## II. Team Members :
 - Dimagculang, Sherivic Mae 
 - Ebora, Ma. Mikaella 
