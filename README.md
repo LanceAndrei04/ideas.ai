@@ -116,17 +116,16 @@ Before accessing any feature, you must log in to your Idea.AI account.
 **QHub** is the system’s intelligent query interface. It allows users to ask questions and receive helpful responses via:
 
 - **AI Assistant** – Powered by an integrated AI model (ProfessorNeko) to generate tailored responses.
-- **Google Search** – Offers real-time information retrieval for broader or more specific needs.
+
+![Idea.AI Screenshot](images/qhub.jpg)
+
 
 #### ✅ How to Use:
 1. Go to the **QHub** section.
 2. Enter your question or idea in the input box.
-3. Select:
-   - **AI Response** for an AI-generated idea.
-   - **Google Search** to explore the web.
-4. Click **Submit**.
-5. Review the results.
-6. Click **Save to Notebook** to store the idea.
+3. Click **Submit**.
+4. Review the results.
+5. Click **Save to Notebook** to store the idea.
 
 ---
 ### 🛠️ Step 3: Refine Ideas in the Workspace
