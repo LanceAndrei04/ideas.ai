@@ -125,8 +125,7 @@ Before accessing any feature, you must log in to your Idea.AI account.
 2. Enter your question or idea in the input box.
 3. Click **Submit**.
 4. Review the results.
-5. Click **Save to Notebook** to store the idea.
-
+   
 ---
 ### 🛠️ Step 3: Refine Ideas in the Workspace
 
@@ -137,13 +136,16 @@ The **Workspace** provides a creative environment for developing and expanding i
 - Add and structure content freely.
 - Link related ideas and documents.
 
+  ![Idea.AI Screenshot](images/workspace.jpg)
+
 #### ✅ How to Use:
 1. Navigate to the **Workspace** section.
 2. Choose to:
+   - Open the recent search to Workspace (by clicking Workspace button on QHub)
    - Create a new workspace entry.
-   - Open an existing note.
-3. Edit content using the text editor.
-4. Changes are saved automatically.
+   - Open an existing note from Notebook.
+4. Edit content using the text editor.
+5. Changes are saved automatically.
 
 ---
 
@@ -152,18 +154,21 @@ The **Workspace** provides a creative environment for developing and expanding i
 The **Notebook** is where all your generated or manually written ideas are stored and organized.
 
 #### ✨ Features:
-- View all saved ideas and notes.
+- View all saved ideas , notes and documents.
 - Search and organize with ease.
 - Create, update, or delete notes.
 
+  ![Idea.AI Screenshot](images/notebook.jpg)
+
 #### ✅ How to Use:
 1. Open the **Notebook** section.
-2. Browse notes by date or category.
-3. Click any note to:
+2. Browse notes from Notebook Tab.
+3. Browse docuements from Documents Tab.
+4. Click any note/document to:
    - View details.
    - Edit content.
    - Delete if necessary.
-4. Use **Quick Search** to find content instantly.
+5. Use **Quick Search** to find content instantly.
 
 ---
 
@@ -175,6 +180,8 @@ The **MindMap** feature transforms your notes into interactive diagrams for bett
 - Automatically generate mind maps from notes.
 - Customize node structure and appearance.
 - Export visual diagrams for sharing.
+
+  ![Idea.AI Screenshot](images/mindmap.jpg)
 
 #### ✅ How to Use:
 1. From **Notebook** or **Workspace**, select a note.
